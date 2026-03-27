@@ -19,23 +19,45 @@ const byYear = poems.reduce(
 const years = Object.keys(byYear)
 	.map(Number)
 	.sort((a, b) => b - a);
+
+const poemIds = poems.map((p) => p.id);
 ---
 
 <Layout title="Poemas">
 	<div class="pb-24 pt-10">
 		<!-- Index header -->
-		<div class="mb-14">
+		<div class="mb-6 flex items-baseline justify-between">
 			<p class="font-mono text-[11px] uppercase tracking-widest text-muted">
 				Índice de poemas
 				<span class="ml-3 opacity-50">·</span>
 				<span class="ml-3">{poems.length}</span>
 			</p>
+			<button
+				id="random-poem"
+				class="cursor-pointer font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 hover:text-ink"
+			>
+				↯ Aleatorio
+			</button>
 		</div>
+
+		<!-- Year navigation -->
+		<nav class="mb-14 flex flex-wrap gap-5">
+			{
+				years.map((year) => (
+					<a
+						href={`#year-${year}`}
+						class="font-mono text-[11px] tracking-widest text-muted transition-colors duration-200 hover:text-ink"
+					>
+						{year}
+					</a>
+				))
+			}
+		</nav>
 
 		<!-- Year groups -->
 		{
 			years.map((year) => (
-				<section class="mb-12">
+				<section id={`year-${year}`} class="mb-12">
 					<!-- Year divider -->
 					<div class="mb-5 flex items-center gap-4">
 						<span class="font-mono text-[11px] tracking-widest text-muted">
@@ -80,3 +102,10 @@ const years = Object.keys(byYear)
 		}
 	</div>
 </Layout>
+
+<script define:vars={{ poemIds }}>
+	document.getElementById("random-poem")?.addEventListener("click", () => {
+		const id = poemIds[Math.floor(Math.random() * poemIds.length)];
+		window.location.href = `/poems/${id}`;
+	});
+</script>
