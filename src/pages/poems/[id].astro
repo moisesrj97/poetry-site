@@ -1,0 +1,30 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+	const poems = await getCollection("poems");
+	return poems.map((poem) => ({ params: { id: poem.id } }));
+}
+
+const { id } = Astro.params;
+const poems = await getCollection("poems");
+const poem = poems.find((p) => p.id === id);
+if (!poem) return Astro.redirect("/404");
+const { Content } = await render(poem);
+---
+
+<Layout title={poem.data.title} description={poem.data.description}>
+  <main>
+    <a href="/">← Back</a>
+    <article>
+      <header>
+        <h1>{poem.data.title}</h1>
+        <time datetime={poem.data.date.toISOString()}>
+          {poem.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+      </header>
+      <Content />
+    </article>
+  </main>
+</Layout>
