@@ -14,7 +14,7 @@ las estrellas del firmamento.
 Si mi corazón
 deja de sangrar versos.
 Si mis pies vuelven
-a caminar sólo por el suelo.
+a caminar solo por el suelo.
 Si algún día pierdo
 todos mis sueños.
 Si dejo de creer en el amor

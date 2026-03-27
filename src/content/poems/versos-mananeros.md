@@ -10,4 +10,4 @@ pesadas como losas.
 El sol se asoma tímido
 escondido tras las lomas
 muere la noche ¡Muere!
-y vive alguna rosa.
+Y vive alguna rosa.

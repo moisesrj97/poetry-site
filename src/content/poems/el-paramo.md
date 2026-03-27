@@ -21,7 +21,7 @@ o quizá por celos
 de que nosotros al fin
 pudiésemos vernos.
 
-El frió hizo temblar tus piernas
+El frío hizo temblar tus piernas
 y tus labios las mías
 cuando, decidida,
 recorriste la distancia
@@ -29,7 +29,7 @@ entre la promesa y la fechoría
 de robarme el aliento con ese beso
 que una promesa tenía prendida.
 
-A cambio sólo pude darte
+A cambio solo pude darte
 un pedazo de mis sueños
 y una torpe sonrisa
 mientras tú me mirabas sorprendida.
@@ -42,7 +42,7 @@ que buscan tímidos su compañía.
 De pronto la temperatura
 ya no era tan hostil
 y aquel banco en medio de la nada
-se torno refugio alejado de un mundo ruin.
+se tornó refugio alejado de un mundo ruin.
 
 Parecía extraño pensar
 que la ciudad, lejos, seguía rugiendo,
@@ -75,7 +75,7 @@ nos habíamos guardado,
 pasó de ser un cualquiera,
 a ser un lugar para querernos,
 a ser un lugar para amarnos,
-a ser un páramo, si,
+a ser un páramo, sí,
 pero al fin y al cabo,
 "nuestro páramo".
 

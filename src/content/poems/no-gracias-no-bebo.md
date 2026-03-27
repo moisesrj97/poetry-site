@@ -38,7 +38,7 @@ Triste juventud
 encefalograma plano,
 no conocen diversión
 sin un par de disparos.
-Tu empina el codo,
+Tú empina el codo,
 hígado machacado,
 ¿La resaca?
 Cerebro deshidratado.

@@ -1,5 +1,5 @@
 ---
-title: "Hola! ¿Sabes cuanto pesa un mamut siberiano?"
+title: "¡Hola! ¿Sabes cuánto pesa un mamut siberiano?"
 date: 2016-12-26
 ---
 
@@ -17,7 +17,7 @@ Apareciste como aparecen las luciérnagas, cuando la noche es cerrada y te rodea
 
 Por primera vez rompí con todos mis esquemas para hablar con alguien que no conocía de nada. Tenía un buen presentimiento.
 
-No sé si lo que nos unió fue nuestro gusto por la meta azul, baby blue, el chocolate, los cubos, los versos, el amor a los animales o el bombo y la caja. Sólo sé que a los 30 minutos me pediste que me casara contigo. Yo tenía las cosas claras desde 29 minutos antes.
+No sé si lo que nos unió fue nuestro gusto por la meta azul, baby blue, el chocolate, los cubos, los versos, el amor a los animales o el bombo y la caja. Solo sé que a los 30 minutos me pediste que me casara contigo. Yo tenía las cosas claras desde 29 minutos antes.
 
 Mil y una noches transcurrieron hasta las 5 y media. 3 horas después un cuerpo sin mente ni corazón empujaba un carrito de la compra. Ellos se quedaron durmiendo, soñando contigo.
 

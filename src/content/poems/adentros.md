@@ -25,8 +25,8 @@ y dejes mis entresijos descubiertos,
 entre sangre de atardeceres
 y la última caricia de mi aliento,
 se abrirá mi tórax para ti
-como una pequeña flor de invierto
+como una pequeña flor de invierno
 para que veas que,
-aún cuando ya esté muerto,
+aun cuando ya esté muerto,
 si te tengo cerca
 mi corazón seguirá latiendo.

@@ -3,7 +3,7 @@ title: "Psyps"
 date: 2016-03-03
 ---
 
-Permiteme, pequeña,
+Permíteme, pequeña,
 abrirte mi alma de nuevo.
 Rozar otra vez tu piel
 anclado de nuevo a mi cuaderno.
@@ -27,4 +27,4 @@ mas fíjate en el carácter primero.
 Pese a todo, yo llegué después,
 reconozco que la frase no es de mi tintero, pero
 
-Esta vez, creeme, esta vez va en serio.
+Esta vez, créeme, esta vez va en serio.

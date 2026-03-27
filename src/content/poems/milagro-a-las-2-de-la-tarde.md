@@ -32,13 +32,13 @@ de quien tuvo que ser adulto
 sin dejar de ser un niño,
 de quien sufrió golpes,
 reproches, insultos y hastío,
-y aún así siguió caminando
+y aun así siguió caminando
 sin entender de todo qué era aquel camino.
 
 Ojalá tu futuro se encuentre
 rodeado de animales que no te juzguen,
 lejos de aquellos que no te entienden,
-abrazado por el amor que sólo da quien no habla,
+abrazado por el amor que solo da quien no habla,
 pero te ama hasta en la noche más oscura,
 lejos de esta muchedumbre
 que no sabe qué se siente

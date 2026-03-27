@@ -25,7 +25,7 @@ de mi inglés mal pronunciado
 y frente a mi cara de reproche
 me rodees con tus brazos.
 
-Tú, tan biligue.
+Tú, tan bilingüe.
 Yo, tan poeta.
 Tú, dueña de tantas lenguas,
 yo de una que hace estremecer tus piernas.
@@ -43,7 +43,7 @@ Siempre fuiste tan valiente.
 Pero si existe algo
 que realmente echo de menos
 es que me mires,
-pongas en mi tus ojos negros,
+pongas en mí tus ojos negros,
 te acerques tan despacio
 como despacio marcha el invierno
 y entonces te detengas
@@ -53,7 +53,7 @@ provocando la revolución de los aleteos
 para finalmente
 emprender el vuelo a tu lado.
 
-Parece que fue ayer
-pero estoy tan equivocado
-pues que hay más paradójico
+Parece que fue ayer,
+pero estoy tan equivocado,
+pues qué hay más paradójico
 que extrañar lo que aún no ha pasado.

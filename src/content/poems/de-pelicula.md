@@ -3,13 +3,13 @@ title: "De película"
 date: 2015-11-25
 ---
 
-En fin, que decir
+En fin, qué decir
 si a tu lado la vida es bella
 si te miro, me miras,
 silencio, se rueda...
-Pero no se ni que pensar
+Pero no sé ni qué pensar
 cuando por mi mente paseas...
-Si tu eres la dama, bella
+Si tú eres la dama, bella
 y yo el vagabundo, bestia...
 No me chilles que no te veo
 si tu belleza me ciega,
@@ -20,8 +20,8 @@ yo encontré mi trufa y fresa
 en esa sonrisa de Cheshire
 y esa negra luna llena
 que plasman tus pupilas
-pérdidas en alguna estrella...
-quizá de cine,  quizá en el suelo,
+perdidas en alguna estrella...
+quizá de cine,  quizá en el suelo,
 quizá alguna verdadera.
 Pues no hay mujer más maravilla
 que la musa de estas letras...

@@ -8,7 +8,6 @@ Lágrimas. Amarga miel.
 Cruel romance.
 
 La oscuridad devora
-
 edificios y calles.
 
 Supuran mis heridas pesadillas
@@ -32,7 +31,6 @@ Sin parar.
 Constante.
 
 Avanzando paso a paso
-
 hacia el borde de esta Vorágine.
 
 Mi piel pálida se agrieta.
@@ -60,7 +58,6 @@ No respiro.
 Mi garganta arde.
 
 Exiliado de la colmena
-
 por no querer ser uno más del enjambre.
 
 Sonrisas.
@@ -84,7 +81,6 @@ Este poeta
 rendido yace.
 
 Desnudo
-
 en un mundo de disfraces.
 
 Me quité las caretas
@@ -96,11 +92,9 @@ Nadie. ¿Quién soy?
 ¿Acaso soy alguien?
 
 Líneas incoherentes
-
 para frenar lo imparable.
 
 Ideas descolocadas
-
 para sanar lo irreparable.
 
 Lágrimas. Amarga miel.

@@ -31,7 +31,7 @@ Tú que luchas por derechos
 a los que pones candados.
 Tú que descubres lo imposible
 y te encadenas a un rosario.
-Tú que rompes espejos
+Tú que rompes espejos,
 pues no soportas ser reflejado,
 tú que vomitas lo que comes
 por un estereotipo rancio,

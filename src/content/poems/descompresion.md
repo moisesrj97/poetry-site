@@ -4,7 +4,7 @@ date: 2019-05-11
 ---
 
 El fondo de mis retinas
-sólo refleja el techo de mi habitación.
+solo refleja el techo de mi habitación.
 En mis oídos el zumbido
 del lento batir de este corazón.
 
@@ -18,14 +18,14 @@ más allá de las persianas.
 El tiempo es difícil de seguir
 cuando ni siquiera puedes contar lágrimas.
 
-No sé cuanto llevo aquí
+No sé cuánto llevo aquí
 en esta apatía permanente,
 en este silencio constante,
 en esta cárcel perenne.
 
 Mamá dice que estoy serio
 y que estoy siempre triste.
-Te prometo que quiero salir
+Te prometo que quiero salir,
 pero la risa se me resiste.
 Que sigo siendo tu niño
 aunque ya no sonría,
@@ -109,4 +109,4 @@ en el techo de mi cuarto.
 
 
 
-"Me gustaría haber podido escribir esto 5 o 6 meses atrás, pero en aquel entonces no pude. Lo escribo ahora para recordarme a mi mismo dónde estuve y de donde salí. Gracias a todos los que estuvieron ahí aunque yo no estuviese, a los que esperaron mi regreso. Pero sobretodo gracias a mí mismo, por haber logrado salir de ese pozo."
+"Me gustaría haber podido escribir esto 5 o 6 meses atrás, pero en aquel entonces no pude. Lo escribo ahora para recordarme a mí mismo dónde estuve y de dónde salí. Gracias a todos los que estuvieron ahí aunque yo no estuviese, a los que esperaron mi regreso. Pero sobre todo gracias a mí mismo, por haber logrado salir de ese pozo."

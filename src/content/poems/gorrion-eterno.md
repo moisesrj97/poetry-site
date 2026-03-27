@@ -41,7 +41,7 @@ recibir tus abrazos.
 A mí no me va mal.
 Sigo resiliente.
 Lloro menos de lo que debería
-y sólo escribo los martes trece.
+y solo escribo los martes trece.
 Pero no nos engañemos,
 sabes que me busco la vida
 y que siempre renegué de la suerte.

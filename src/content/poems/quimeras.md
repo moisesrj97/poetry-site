@@ -23,8 +23,8 @@ cuando las palabras sobran
 cuando no hay momento, no hay lugar,
 no es el tema, es la persona...
 
-Ya no se como callar
-esto que dentro me quema
+Ya no sé cómo callar
+esto que dentro me quema,
 pero escondo, quizá por miedo,
 y lo amarro con cadenas...
 

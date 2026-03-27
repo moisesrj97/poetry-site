@@ -16,14 +16,14 @@ quedo la tierra calcinada
 y la princesa que allí vivía
 por aquel ser fue raptada.
 ¡Oh pobre princesa!
-¡Como fuiste embaucada
+¡Cómo fuiste embaucada
 por los cumplidos traicioneros
 de esa boca con escamas!
 Tú que fuiste bella,
 viva, alocada,
 que hasta el mismo cielo
 doblegabas con tu mirada.
-Pero ahora sólo hay lágrimas,
+Pero ahora solo hay lágrimas,
 lágrimas desoladas.
 Pero brillarás de nuevo,
 refulgirás, mi amada.
@@ -35,7 +35,7 @@ Pues no lucho solo,
 me acompaña la metáfora.
 Pues doblego al verso
 y lo uso como arma.
-Tiembla ser del inframundo
+Tiembla ser del inframundo,
 pues no descansará mi alma
 hasta despertar un día
 y ver su tez al alba,
@@ -47,7 +47,7 @@ hasta que sea su sonrisa
 para este perdido un mapa
 y guíen mi camino
 los lunares de su espalda.
-Así que, prepararé bestia
-pues su risa sera vengada,
+Así que, prepararé bestia,
+pues su risa será vengada,
 no quedara impune
 su felicidad devastada.

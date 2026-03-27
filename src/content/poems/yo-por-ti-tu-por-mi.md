@@ -36,6 +36,6 @@ Y es que yo, por ti,
 bajaría la Luna
 y te la volvería poema.
 
-Y sé que tú, por mi,
+Y sé que tú, por mí,
 dejarías a un lado el miedo
 y te atreverías a leerla.

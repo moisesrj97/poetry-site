@@ -23,7 +23,7 @@ Creí caer desfallecido
 tras andar siglos por aquel páramo
 al que algunos llaman mente,
 pero entonces, te vi a mi lado.
-Vuelvo a recurrir a los versos
+Vuelvo a recurrir a los versos,
 pues mi mente se ha aclarado,
 y para bien o para mal he de decir,
 pequeña, estoy enamorado,
@@ -31,5 +31,5 @@ lo que nace en mis adentros
 ya no puede ser calmado,
 y no hay nada que más deseé
 este poeta desbocado
-que ser permitido, algún dia
+que ser permitido, algún día
 a la imprudencia de besar tus labios.

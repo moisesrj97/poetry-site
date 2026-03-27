@@ -1,54 +1,54 @@
 ---
-title: "A tí"
+title: "A ti"
 date: 2021-11-09
 ---
 
-Hoy te escribo a tí.
+Hoy te escribo a ti.
 
-A tí,
+A ti,
 que trajiste calma a mi trinchera,
 sacudiste el polvo de mis rodillas
 y con un "Te quiero" clavaste tu bandera.
 
-A tí,
+A ti,
 a esa sonrisa de vida,
 a esa mirada imposible,
 y a esa niña escondida.
 
-A tí,
+A ti,
 que llenaste de arena de playa
 cada una de mis grietas
 y derrumbaste cada muro
 que levantó una mente enferma.
 
-A tí,
+A ti,
 mi compañera de vida,
 mi más dura combatiente,
 mi más fiel confidente,
 mi mejor amiga.
 
-A tí
+A ti
 que haces verso de mis latidos
 y atrapas todos mis desvelos
 en tamaño de bolsillo.
 
-A tí,
-qué eres más que mi deseo
+A ti,
+que eres más que mi deseo
 menos que el mañana
 pero igual que en mis sueños.
 
-A tí,
+A ti,
 faro en la mar cerrada,
 agua en la tierra yerma,
 apagón en la noche estrellada.
 
-A tí,
+A ti,
 que viste al niño tras la ojera,
 al guardián entre el centeno,
 a la risa tras la mueca.
 
-A tí.
+A ti.
 Que llegaste y me diste la vuelta.
 
-A tí.
-Hoy te escribo a tí.
+A ti.
+Hoy te escribo a ti.

@@ -23,12 +23,12 @@ Imagino tu amor
 sin temer a nada.
 Pasear de tu mano,
 sabiendo que me amas.
-Imagino no vivir mas
+Imagino no vivir más
 entre pared y espada.
 Imagino una vida
 con nuestros nombres grabada.
 Imagino tus lunares
-guiandome por tu espalda
+guiándome por tu espalda
 para encontrar el camino,
 que conduce a tu mirada.
 Imagino tanto,

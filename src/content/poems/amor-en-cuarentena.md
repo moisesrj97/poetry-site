@@ -23,7 +23,7 @@ Entre cuatro paredes.
 Los días eternos.
 Nada se mueve.
 
-Pero aún en este exilio
+Pero aun en este exilio
 siento una brisa fría
 acariciando mis adentros
 cuando alcanzo a escuchar tu risa.
@@ -68,13 +68,13 @@ al escuchar mi voz?
 al hablar de amor?
 
 ¿Será recíproco
-el aleteo simultaneo
+el aleteo simultáneo
 a esa notificación
 que llega cuando escribes
 y detiene en un instante
 mi respiración?
 
-Sólo sé que quiero
+Solo sé que quiero
 volver a verte.
 Estirar mi mano, tocarte,
 saber cómo hueles.

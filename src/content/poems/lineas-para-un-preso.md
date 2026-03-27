@@ -90,8 +90,8 @@ El invierno sigue durmiéndome.
 La primavera sigue acariciándome.
 El verano sigue quemándome.
 
-¿Cuantas horas tiene allí un día?
-¿Cuantas veces late un corazón?
+¿Cuántas horas tiene allí un día?
+¿Cuántas veces late un corazón?
 
 El espejo sigue engañándome.
 Sigue produciendo alucinaciones.
@@ -131,6 +131,6 @@ Tu vieja camisa destemplada.
 Tus pantalones te esperan llenos de parches.
 
 Júrame que cuando salgas recordarás el nombre de la libertad.
-Júrame que cuando salgas recordarás el nombre de éste que te escribe.
+Júrame que cuando salgas recordarás el nombre de este que te escribe.
 
 Firmado:

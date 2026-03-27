@@ -18,5 +18,5 @@ para que en frías noches, en mi ausencia,
 encuentres en mis líneas calor.
 
 Jamás sabré cómo pasó, pequeña,
-pues es siete días mi corazón
+pues en siete días mi corazón
 quedó atrapado en un metro sesenta.

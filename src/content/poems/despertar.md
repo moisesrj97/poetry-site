@@ -16,16 +16,16 @@ cual trinchera que nos cobija
 del mundo de ahí fuera
 donde no encuentro tu sonrisa.
 Yo me quedo en este templo
-donde sólo encuentro alegría
+donde solo encuentro alegría,
 pues no hay nada más bello
 que esta, tú, mi maravilla.
 Es curioso que tu meta
-sea a los cuerpos dar vida
-pero tocas un pelo del mio
+sea a los cuerpos dar vida,
+pero tocas un pelo del mío
 y mis fuerzas caen rendidas.
 En nuestro castillo
 de muros blancos, tela fina,
-no hay idioma sino besos
+no hay idioma, sino besos
 y los versos de este escriba,
 pues quien necesita palabras
 cuando los labios le guían

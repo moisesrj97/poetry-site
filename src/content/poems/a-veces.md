@@ -14,7 +14,7 @@ diez piedras en mi camino.
 A veces me emborracho
 del eco de los suspiros
 que dejaron los corazones
-que apadriné en en mío.
+que apadriné en el mío.
 A veces les odio tanto
 que solo encuentro frío
 en el mundo que me rodea
@@ -38,7 +38,7 @@ mejor solo que corrompido.
 A veces no comprendo
 que quieran que sea rígido,
 por favor, miradme,
-sigo teniendo en mi un niño.
+sigo teniendo en mí un niño.
 A veces no aguanto más
 vivir en un mundo podrido
 en que el amor es propaganda
@@ -54,10 +54,10 @@ en busca de algún castillo.
 A veces soy equilibrista
 paso a paso por este río
 al que osan llamar vida
-más no es si no un torbellino,
+más no es sino un torbellino,
 pero a veces vienen rápidos
 y en un soplo desafino
-cayendo a los más profundo
+cayendo a lo más profundo
 del pozo del olvido.
 A veces estallaría, gritaría,
 lloraría, haría una cata de ricino.

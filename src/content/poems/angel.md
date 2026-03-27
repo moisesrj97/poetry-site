@@ -10,4 +10,4 @@ cual luceros aún cerrados,
 unas manos, que aun pequeñas
 pedían mimos y arrumacos,
 y un cuatro de febrero,
-cayo un ángel, nació Alvaro.
+cayó un ángel, nació Alvaro.

@@ -47,7 +47,7 @@ cuando esa sonrisa que daba vida
 duele ahora cual estocada?
 ¿Saben lo que es ver
 una silla desamparada
-porque se fué demasiado pronto
+porque se fue demasiado pronto
 el que solía ocuparla?
 Y pedir cada noche
 que vuelva el que me amparaba,
@@ -59,7 +59,7 @@ que mis penas calmaba...
 que no habrá media naranja
 que todo lo que intente
 acabará dejando marca?
-¿Sentir que no hay nadie para mi?
+¿Sentir que no hay nadie para mí?
 ¿Que nadie soportará mi carga?
 ¿Que no habrá quien quiera saber
 lo que esconde mi mirada?

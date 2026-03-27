@@ -10,21 +10,21 @@ fueron recordadas.
 
 Nació el sustantivo,
 apareció el adjetivo,
-más ,pese a ser superlativo,
+más, pese a ser superlativo,
 Lenguaje no estaba aún vivo.
 
 Con la preposición
-Nombre hechó raíces
+Nombre echó raíces
 colocáronse los matices
 de tiempo, espacio y relación.
 
-Pero aun había vacío
-en aquel nuevo mundo
+Pero aún había vacío
+en aquel nuevo mundo,
 pues todo estaba inmóvil,
 dormido, moribundo.
 
 Entonces de la nada
-la vida apareció,
+vida apareció,
 cuando de repente
 el verbo nació,
 y con él el silencio

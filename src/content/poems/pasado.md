@@ -30,4 +30,4 @@ escapo despavorido.
 Y aquí estoy en tu semáforo
 pañuelos que te he ofrecido
 me ignoraste y te reiste
-¿Aun te ríes, amigo?
+¿Aún te ríes, amigo?

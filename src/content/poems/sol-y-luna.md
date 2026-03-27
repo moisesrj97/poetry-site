@@ -5,7 +5,7 @@ date: 2018-09-24
 
 Ella era Sol. Cuando se acercaba a él lo hacía acechando, como una leona. Su manada siempre fue reducida, dispersa, tuvo que aprender a cazar desde pequeña. Le gustaba caminar bajo los rayos de su tocayo del cielo, moviendo su oscura figura con la elegancia de la que sabe que la miran mientras camina. Pese a ser leona, siempre ondeaba su melena al viento. Le gustaba el calor de la sabana, la vainilla y el café.
 
-Él era Luna. Al contrario que Sol, era mucho más canino que felino. Vivía enamorado de las estrellas y de su homónima flotante. Por las noches, cuando miraba al cielo sin decir palabra, por lo pálido de su piel y el vapor que salía de su nariz se le podría confundir con un lobo. Desde cachorro fue pasando de manada en manada, recibiendo mordiscos y sumando cicatrices a su ya cansado hocico. Finalmente decidió que la soledad no era tan mala compañía. Le gustaba el frío de la montaña, el limón y el té.
+Él era Luna. Al contrario que Sol, era mucho más canino que felino. Vivía enamorado de las estrellas y de su homónima flotante. Por las noches, cuando miraba al cielo sin decir palabra, por lo pálido de su piel y el vapor que salía de su nariz se le podría confundir con un lobo. Desde cachorro fue pasando de manada en manada, recibiendo mordiscos y sumando cicatrices a su ya cansado hocico. Finalmente, decidió que la soledad no era tan mala compañía. Le gustaba el frío de la montaña, el limón y el té.
 
 Sol tenía los ojos de otoño, de la madera seca, chocolate oscuro y café tostado. Por el contrario, Luna los tenía del color del pino, la menta y las hojas de té.
 
@@ -13,11 +13,11 @@ Luna escuchaba la lluvia, pero nunca le gustaron las tormentas, mientras Sol bai
 
 Sol siempre caminaba por el día, obtenía energía del calor y la admiración. Luna prefería la noche, el anonimato y la luz de las farolas siempre le había parecido un refugio.
 
-Sol comenzaba a moverse en cuando sonaban dos notas, y Luna no podía sino quedarse hechizado al verla moverse, pues nunca había visto a nadie bailar de aquella manera, cómo si hubiese nacido para ello.
+Sol comenzaba a moverse en cuando sonaban dos notas, y Luna no podía, sino quedarse hechizado al verla moverse, pues nunca había visto a nadie bailar de aquella manera, cómo si hubiese nacido para ello.
 
 Debido a sus hábitos de vida, apenas se cruzaban unas cuantas horas al día. Mientras Luna caminaba por el firmamento recogiendo estrellas que poder comer una vez llegase a casa, Sol descansaba, esperando su momento para volver a deslumbrar al mundo.
 
-Pero un día, Luna trasnochó y, al ver los colores reflejados por la luz del día, no pudo sino aullar una lastimera balada para intentar mostrar lo que le hacía sentir.
+Pero un día, Luna trasnochó y, al ver los colores reflejados por la luz del día, no pudo, sino aullar una lastimera balada para intentar mostrar lo que le hacía sentir.
 
 Dio la casualidad que, ese mismo día, Sol estaba cerca, recostada bajo una sombra, descansando brevemente antes de continuar su marcha. Aún medio somnolienta, escuchó aquel aullido y giró la cabeza, lo justo para verle. Luna, sin querer, la miró.
 
@@ -31,7 +31,7 @@ Sabían que haberse encontrado en ese momento era algo esporádico, que no volve
 
 A partir de ese día, los amaneceres y los atardeceres brillan de forma distinta, porque en esos momentos Sol y Luna coinciden despiertos y pueden recordarse lo importante que son el uno para el otro.
 
-A partir de ese día, el mundo huele un poco más a vainilla y menta, el calor y el frío sólo dependeden de la distancia y los eclipses son el lugar más bonito de todo el cielo.
+A partir de ese día, el mundo huele un poco más a vainilla y menta, el calor y el frío solo dependeden de la distancia y los eclipses son el lugar más bonito de todo el cielo.
 
 Ilustración: 72kilos
 

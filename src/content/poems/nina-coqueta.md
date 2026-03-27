@@ -8,19 +8,15 @@ Me miras y sonríes.
 Ojos de perla.
 
 Te asomas y susurras
-
 con media cara fuera.
 
 Vas creciendo
-
 cada vez con más fuerza.
 
 Río de plata
-
 que te completa.
 
 Creces y en tu auge
-
 de golpe menguas.
 
 Niña coqueta.

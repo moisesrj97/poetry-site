@@ -5,7 +5,7 @@ date: 2019-04-09
 
 Extrañarte dejó de ser variable
 para volverse un valor constante
-que ya sólo se mueve en números positivos.
+que ya solo se mueve en números positivos.
 
 Nunca pensé que amarte
 estuviese escrito aquella tarde
@@ -33,7 +33,7 @@ son una medida más realista,
 puesto que al pensarte aceleran.
 
 Estoy en medio
-de un teorema de física cuántica
+de un teorema de física cuántica,
 pues comparto posiciones
 en distintas camas del planeta.
 

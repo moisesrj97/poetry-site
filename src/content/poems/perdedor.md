@@ -34,4 +34,4 @@ al que nunca pude ganar.
 
 Me declaré perdedor
 de un juego macabro
-al que sólo jugaba yo.
+al que solo jugaba yo.

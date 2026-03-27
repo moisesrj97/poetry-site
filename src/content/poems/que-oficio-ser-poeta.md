@@ -3,7 +3,7 @@ title: "Que oficio ser poeta"
 date: 2015-06-07
 ---
 
-Que oficio ser poeta,
+Qué oficio ser poeta,
 soñar con tus besos,
 y tras una metáfora incompleta
 dedicarte estos versos.
@@ -25,7 +25,7 @@ mas no poder, pequeña,
 osar a lanzar un "Te quiero".
 Oh, palabras traicioneras
 que poblais mis inventos,
-por que huís de mi conciencia
+por qué huís de mi conciencia
 cuando la oigo, cuando la veo.
 Destinado a la libreta,
 a en ella plasmar mis sueños.
@@ -35,5 +35,5 @@ frío corazón de piedra,
 el que se esconde en mi pecho...
 Y a ti, que no te mientan,
 no te confunda este ruego.
-Que oficio ser poeta,
+Qué oficio ser poeta,
 y no poder dejar de serlo...

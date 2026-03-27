@@ -3,8 +3,8 @@ title: "La historia interminable (I)"
 date: 2016-03-20
 ---
 
-Porque en Diciembre no solo acabó mi año,
-ni fue otro año lo que empezó en Enero,
+Porque en diciembre no solo acabó mi año,
+ni fue otro año lo que empezó en enero,
 fueron las risas que había olvidado
 y las sombras de atrás se fueron.
 Que fue una bonita casualidad
@@ -27,7 +27,7 @@ que no fue llamar asesinos
 a los cobardes de los toreros,
 no fueron los temas de Kase-O
 ni la nebulosa entre versos,
-que va, eso no fue,
+qué va, eso no fue,
 no fue nada de eso.
 Y no preguntes, pues no sé
 lo que me atrapó en aquel momento,

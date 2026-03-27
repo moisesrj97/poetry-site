@@ -37,7 +37,7 @@ mi sonrisa volvió a casa, a nuestro hogar, colgó su sombrero en el perchero y 
 
 Apareciste,
 y
-me enseñaste que sí que puedo querer, que no me tenías miedo. Te fascinaste al oirme hablar del amor de tortugas y, sin pensarlo dos veces, te afiliaste a él.
+me enseñaste que sí que puedo querer, que no me tenías miedo. Te fascinaste al oírme hablar del amor de tortugas y, sin pensarlo dos veces, te afiliaste a él.
 
 Apareciste,
 y
@@ -83,7 +83,7 @@ Apareciste,
 y
 le diste la vuelta a mi vida, redefiniendo la palabra "felicidad".
 
-Aparecsite,
+Apareciste,
 y
 ya no quiero dormir si no te acaricio, y despertar sin tus ojos y tu voz ronca se me hace cuesta arriba.
 

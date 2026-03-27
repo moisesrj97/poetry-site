@@ -8,9 +8,9 @@ me susurra y me atrapa,
 me dice que no corra
 que ahí fuera no queda nada.
 
-El fantasma a vuelto
+El fantasma ha vuelto,
 pero ya no le queda rabia,
-sólo me mira y llora.
+solo me mira y llora.
 Él también siente lástima.
 
 Otro día que pasa
@@ -36,7 +36,7 @@ con el corazón en modo avión.
 Perdón por la cara larga,
 por contestar con la guardia alta,
 pero es que no sabes cuánto pesan
-las mentiras que me pongo casa mañana
+las mentiras que me pongo cada mañana
 para que este mundo no me repudie.
 Tiran de mi cabeza contra el suelo
 pegándose como una máscara
@@ -60,7 +60,7 @@ me quisieron tratar como un niño.
 Me cuesta conjugar el verbo vivir.
 
 Mis musas se fueron.
-Supongo que también se cansaron de mi.
+Supongo que también se cansaron de mí.
 De no poder hacer nada.
 De verme sufrir.
 

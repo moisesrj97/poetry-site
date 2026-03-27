@@ -18,7 +18,7 @@ así son tus besos.
 
 Como el estrépito del agua
 que la impureza alisa.
-La armonía de el canto
+La armonía del canto
 de un ave vespertina.
 Así niña,
 así es tu risa.

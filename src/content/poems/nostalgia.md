@@ -9,12 +9,12 @@ los que saben que sin verte
 yo no aguanto, no puedo.
 Que sin aire de tu brisa
 no respiro, me muero.
-Los mismos que algun dia
+Los mismos que algún día
 tu nombre llevaron, aquellos,
 y se vuelven locos
 por rimar sobre tu cuello.
 Que soy un poeta loco
-que dista de ser perfecto
+que dista de ser perfecto,
 pero es que cuando te veo
 mi corazón da un vuelco,
 mis letras vuelan,
@@ -29,7 +29,7 @@ Y es que no solo mis palabras
 añoran rozar tu cuerpo.
 Y que solo aferrado a tu cintura
 este loco vuelve a estar cuerdo.
-Solo me quedan cuatro lagrimas
+Solo me quedan cuatro lágrimas
 para tres ebrios versos,
 tan solo dos palabras,
 "Te quiero".

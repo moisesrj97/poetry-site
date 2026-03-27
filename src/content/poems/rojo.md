@@ -7,11 +7,11 @@ Entre la niebla
 vislumbré mi camino,
 siguiendo la risa
 que llegaba a mis oídos...
-Marcha firme
+Marcha firme,
 pero siempre al filo,
-se que avanzo
+sé que avanzo
 porque no estoy dormido
-se que pienso
+sé que pienso
 porque sueño contigo
 tengo tu recuerdo
 que me recuerda que estoy vivo.
@@ -36,4 +36,4 @@ en que vuelvas conmigo,
 olvidando el mundo pasado
 y en que, guiándome por el destino
 deje de estar aquí encerrado
-guiándome tan sólo por este rojo hilo...
+guiándome tan solo por este rojo hilo...

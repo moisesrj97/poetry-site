@@ -7,7 +7,7 @@ Hace ya más de una década
 que descubrí la maravilla,
 de sacar de mí las penas
 para en papel dejarlas fijas
-y aún entonces este poeta
+y aun entonces este poeta
 ya creía en la utopía.
 Mi primer verso habló de paz,
 el segundo de una florecilla,

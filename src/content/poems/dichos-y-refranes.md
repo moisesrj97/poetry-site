@@ -27,9 +27,9 @@ y cada lobo a su senda".
 Pero no existen caminos fijos
 para este anacoreta
 que es músico, poeta
-y extremadamente loco
+y extremadamente loco,
 pues algunos no tenemos
-tan sólo un poco.
+tan solo un poco.
 Pero ya sabemos que llaman loco
 los sordos cuando ven a alguien bailar.
 Ellos no escuchan mi música.
@@ -53,7 +53,7 @@ que no pensaste en que yo también pasaba hambre.
 Quizá nuestro amor por los animales
 nos hizo criar cuervos
 sin pensar en las consecuencias.
-Ambos conservamos los ojos
+Ambos conservamos los ojos,
 pero ya sabes que
 "No hay más ciego
 que quien no quiere ver".
@@ -68,11 +68,11 @@ No importa,
 siempre fui de jugar solo.
 Muchas veces tropecé
 y pude sobreponerme,
-otras termine cayendo,
+otras terminé cayendo,
 pero siempre avancé.
 Intentaron calentarse
 cuando me hallaba derrumbado.
-Intenté cubrir mi corazón de seda
+Intenté cubrir mi corazón de seda,
 pero seguía gritando como un animal salvaje.
 Y aunque el caballo
 muriese por una caries descontrolada.
@@ -92,12 +92,12 @@ Pero a la vez recuerdan
 que "soñar es gratis"
 y que "el tiempo es oro".
 Tengo que asumir
-que algunos nacen con estrella
+que algunos nacen con estrella,
 pero yo soy del otro bando.
 Al final me quedo
 con mi refrán favorito:
 "El que la sigue,
 la consigue".
-Llevo siguiendo mucho tiempo
+Llevo siguiendo mucho tiempo,
 pero al fin
 soy libre.

@@ -12,7 +12,7 @@ Esa sonrisa sincera
 se funde con tu risa
 para ponerle cadenas
 a este corazón suicida...
-¿Que hacer?
+¿Qué hacer?
 Si cada noche sueño
 alojarme en tus caricias,
 onírica utopía:

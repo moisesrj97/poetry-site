@@ -33,9 +33,9 @@ Pero también se pudren las flores
 y las heridas se infectaron.
 Vi escapar trenes
 girando y girando en un torno
-maldiciéndo a gritos
+maldiciendo a gritos
 la paradoja de su inexistencia.
-Me enamoré de un jaula
+Me enamoré de una jaula
 con barrotes de oro.
 Un día vi mi reflejo distorsionado
 en su superficie convexa.

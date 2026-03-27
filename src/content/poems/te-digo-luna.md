@@ -39,11 +39,11 @@ Te digo Luna por lo inalcanzable.
 
 Te digo Luna por lo inmenso,
 
-           por lo bello,
-         por lo místico,
-       por lo mimético,
-        por lo brillante,
-         por lo onírico.
+           por lo bello,
+         por lo místico,
+       por lo mimético,
+        por lo brillante,
+         por lo onírico.
 
 Te digo Luna por lo utópico.
 

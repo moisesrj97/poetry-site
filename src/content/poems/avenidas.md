@@ -11,9 +11,9 @@ días pasados.
 Las avenidas se difuminan
 bajo los pasos de un poeta
 que no pertenece a ninguna parte
-y aún así está atrapado.
+y aun así está atrapado.
 
 No nacen versos en su libreta,
-aquella de tierra fertil antaño
-y sólo se pregunta mientras camina
+aquella de tierra fértil antaño
+y solo se pregunta mientras camina
 qué será de él ahora que le abandonó el arte.

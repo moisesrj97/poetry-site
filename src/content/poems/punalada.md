@@ -15,7 +15,7 @@ que clavaste sin reparo
 en aquella imberbe alma.
 Mas el tiempo no detiene
 el frío viento no para,
-mas aun algunos días
+mas aún algunos días
 tu recuerdo me embriaga,
 tu perfume me recuerda
 esta grieta aquí, en mi alma.

@@ -29,21 +29,21 @@ Esa que con el roce
 de tus labios en mi cabeza
 me lanza al abismo
 que tras de sí esconde tu lengua
-sin dejarme mas que tus labios
+sin dejarme más que tus labios
 para aferrarme cual cuerda
 que me salve del olvido,
 que me salve de mi cabeza.
 No temas que no te aprecie,
 no temas que no te quiera,
-pues no hay cosa que mas desee
+pues no hay cosa que más desee
 que acariciar tu cabellera
 y cuando el frío nos asole
 ser de tu cuerpo la caldera,
 y así, entre tus brazos,
 vivir eterna primavera.
-Si no son si no esos ojos
+Si no son sino esos ojos
 los que inspiran estas letras.
-Si no son si no esos labios
+Si no son sino esos labios
 los que besar ruega este poeta.
 
 PD:

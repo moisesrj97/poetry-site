@@ -22,7 +22,7 @@ Me pregunto si seré yo solo.
 Quizá a veces aún duerma
 sobre la tela de tu almohada
 y te visite en sueños.
-Quizá sólo me pase a mí.
+Quizá solo me pase a mí.
 ¿Verás igual todos aquellos lugares
 que hicimos inmortales?
 El té se ha enfriado esperándote.

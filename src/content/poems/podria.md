@@ -3,24 +3,24 @@ title: "Podría"
 date: 2015-11-10
 ---
 
-Podría relatarte en lineas
+Podría relatarte en líneas
 un bonito cuento de hadas
 pero no alcanzaría a la magia
 que esconde tu mirada...
 
 Podría trabajar la piedra
-cincelando cada arista
+cincelando cada arista,
 pero no habría curva tan bella
 como la que forma tu sonrisa...
 
 Podría componer con notas
-una perfecta sinfonía
+una perfecta sinfonía,
 pero aun así estaría de muy lejos
 de tu risa y su armonía...
 
 Podría pintar un cuadro
-de un paisaje remoto
-pero sería algo nimio
+de un paisaje remoto,
+pero sería algo nimio
 puesto al lado de tus ojos...
 
 Mas yo no soy novelista
@@ -36,11 +36,11 @@ ni notas, ni acuarela,
 tan solo estas palabras
 bajo la luz de una vela
 que muere lentamente
-como mueren las estrellas
+como mueren las estrellas,
 pues ya no saben brillar
 tras la luz de tu belleza.
 
 Y así acaba este regalo
 en que sin piedra ni pentagrama
 con 36 versos pretendí
-forjar una sonrisa en tu cara.
+forjar una sonrisa en tu cara.

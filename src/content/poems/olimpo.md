@@ -24,7 +24,7 @@ de un cielo de mayo
 en que pude conocerte.
 
 Hades,
-la llama que en mi ser perece
+la llama que en mi ser perece,
 pues cual poeta muerto
 busco compañía en esta muerte
 

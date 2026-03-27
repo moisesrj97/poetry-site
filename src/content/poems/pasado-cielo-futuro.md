@@ -9,7 +9,7 @@ entre mi sombra, las nubes
 y el borde del abismo.
 
 Ya dejé atrás los fantasmas
-para verme a mi mismo,
+para verme a mí mismo,
 encontrando al más temible
 en el reflejo de aquel vidrio.
 Lo dije y lo retomo,
@@ -28,7 +28,7 @@ Escribí versos por encargo
 y aún hoy me fustigo,
 por prostituir mi arte
 al amor no correspondido...
-Lloré y desgaste mis manos
+Lloré y desgasté mis manos
 enfurecidas en el ladrillo,
 me sentí atrapado,
 entre lágrimas perdido.
@@ -46,8 +46,8 @@ el cosmos, el infinito,
 el todo absoluto,
 más no veo nada divino
 que no sean partículas,
-moléculas, el átomo mas ínfimo.
-Sobre mi cae la luz
+moléculas, el átomo más ínfimo.
+Sobre mí cae la luz
 de un sol vespertino,
 y el peso de una mente
 que disfruta del suplicio.
@@ -80,12 +80,12 @@ y el presente sea mezquino.
 Quizá cuelgue de la cornisa
 sin encontrar un brazo amigo.
 Quizá me encuentre atrapado
-en lo mas profundo de mi mismo,
+en lo más profundo de mí mismo,
 y no vea la luz de unos ojos,
 no oiga la risa de un niño,
 no sienta caricias por la espalda,
 borren mis lágrimas lo escrito.
 Pero aún entonces respiraré,
 aún entonces callaré el grito
-de que fuí, soy y seré,
+de que fui, soy y seré,
 el único dueño de mi destino.

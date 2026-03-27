@@ -5,7 +5,7 @@ date: 2016-01-24
 
 Ya han pasado 7 meses
 desde aquella mañana ocre
-y aun a veces, por las noches,
+y aún a veces, por las noches,
 tu recuerdo me estremece.
 
 Echo de menos esos ojos,
@@ -36,8 +36,8 @@ Espero que perdones este intento
 de, aún póstumo, escribirte esta poesía.
 
 Me enseñaste a no ser cobarde
-por mi rogaste hasta tu último estertor.
-Ojala hubiese un mundo mejor
+por mí rogaste hasta tu último estertor.
+Ojalá hubiese un mundo mejor
 donde pudiera volver a encontrarte.
 
 Aún cada cierto tiempo
@@ -46,7 +46,7 @@ Que un día levantaré mi cabeza de la almohada/
 y se habrá acabado este mal sueño.
 
 Han pasado tantos amaneceres
-desde que te vi allí, palido,
+desde que te vi allí, pálido,
 desde que al verte me sentí inválido,
 desde que lloré gritando a la muerte.
 
@@ -57,5 +57,5 @@ aunque ya no me lleves de tu mano.
 
 Ya han pasado 7 meses
 desde aquella mañana ocre
-y aun a veces, por las noches,
+y aún a veces, por las noches,
 tu recuerdo me estremece.

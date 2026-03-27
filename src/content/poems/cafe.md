@@ -17,11 +17,11 @@ y del que ahora solo queda una carcasa.
 No sé en qué momento murió
 o marchitó el corazón que fue su casa.
 
-En qué momento bajo la temperatura
+En qué momento bajó la temperatura
 del café que preparé ilusionado
 pensando que encontré la respuesta.
 
-Quizá tan sólo cometí la locura
+Quizá tan solo cometí la locura
 de volver a quitarme el candado
 y lanzar todas mis fichas a la mesa.
 

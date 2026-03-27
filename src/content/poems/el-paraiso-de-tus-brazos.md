@@ -7,9 +7,9 @@ Qué tendrán esos ojos
 que juntan mis pedazos.
 Qué tendrán esos besos.
 Qué tendrán esos labios.
-Que hay tras tu mirada,
+Qué hay tras tu mirada,
 tormenta, trueno, rayo,
-que oculta tu sonrisa,
+qué oculta tu sonrisa,
 agua fresca, loto, verano.
 Cómo será que te entiendo,
 con el roce de tus manos.
@@ -31,11 +31,11 @@ Cómo algo tan pequeño
 puede subirme a lo más alto.
 Cómo puedes congelarme
 o elevarme diezmil grados,
-solo con rozar mis piel,
+solo con rozar mi piel,
 con atraparme en un abrazo.
 Cómo describir la ambrosía
 a quien no la ha probado.
-Que difícil es vivir
+Qué difícil es vivir
 sin tenerte en mi regazo.
-Que difícil es tener
+Qué difícil es tener
 mi paraíso entre tus brazos...

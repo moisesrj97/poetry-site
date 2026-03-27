@@ -3,23 +3,23 @@ title: "Utopía"
 date: 2015-02-20
 ---
 
-El dia en que una mirada
-valga mas que un beso,
+El día en que una mirada
+valga más que un beso,
 y fluyan las conciencias
 al leer un buen verso.
-El dia en el uno
+El día en el uno
 se vuelva universo.
-El dia en que el hombre
+El día en que el hombre
 no necesite estar preso.
-El dia en que una risa
+El día en que una risa
 sea el camino recto,
 y que un "Te quiero"
-sea el lenguaje mas perverso
+sea el lenguaje más perverso
 En que entre dos ojos
-halla un momento perfecto.
+haya un momento perfecto.
 En que importe el modo
 y no el tiempo.
-El dia en que una mirada
-valga mas que un beso.
-Ese dia podre marchar
+El día en que una mirada
+valga más que un beso.
+Ese día podré marchar
 con el trabajo bien hecho.

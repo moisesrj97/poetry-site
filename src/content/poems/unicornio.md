@@ -17,14 +17,14 @@ para sus propios intereses
 sin intentar entenderla siquiera.
 Dicen que en su interior
 se esconde la verdadera magia
-y que sólo los elegidos
+y que solo los elegidos
 comprenderán la lengua que hablan.
 Su piel pálida refulge
 bajo la luz de la reina Luna,
 su cuerno emana luz argéntea
 dejando lenguas de trovadores mudas.
-Sólo ella puede entregar su magia
-a quien sólo ella desee,
+Solo ella puede entregar su magia
+a quien solo ella desee,
 y así es como este poeta
 término prendido de aquel ente.
 Antiguas lenguas hablan

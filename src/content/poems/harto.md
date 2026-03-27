@@ -7,7 +7,7 @@ Harto
 de hablar con el cuaderno
 de no tener a nadie a quien contar
 las mierdas que llevo dentro.
-Todos risas, tonterías
+Todos risas, tonterías,
 pero nadie me ve en el suelo
 no se enteran, no se fijan
 que hace tiempo que estoy muerto.
@@ -26,17 +26,17 @@ el que muere, el que está hueco.
 El que harto de dolor
 con cicatrices se hará un templo
 una armadura de amargura
-para que no alcanceis mi cuerpo.
+para que no alcancéis mi cuerpo.
 Para que pueda mi corazón
 yacer el resto de mi tiempo,
 cansado de que se derrumben
 sobre sí los cimientos
 de aquellas amistades
-donde los hombros eran hielo
+donde los hombros eran hielo,
 pues resbalaban al apoyarse
 en busca de algún sustento,
 cansado de buscar en otros
-lo que dentro de mi no encuentro.
+lo que dentro de mí no encuentro.
 Harto de depender
 de sus ojos y sus besos,
 de no poder estar solo

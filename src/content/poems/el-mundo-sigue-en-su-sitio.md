@@ -5,7 +5,7 @@ date: 2016-02-25
 
 Ven, dame tu mano.
 No temas, no pasa nada.
-Tranquila, estas conmigo.
+Tranquila, estás conmigo.
 Vamos, no seas mala.
 
 Déjame indagar
@@ -45,7 +45,7 @@ Y derrite mi escarcha.
 
 El agua sigue corriendo.
 Los pájaros aún cantan.
-Pero besame otra vez.
+Pero bésame otra vez.
 Y para el reloj que nos ata.
 
 La vida sigue pasando.

@@ -14,7 +14,7 @@ morirían en el silencio
 y había tomado a la soledad
 como único compañero.
 Una noche fría
-de las que rozan Enero,
+de las que rozan enero,
 toqué la eternidad
 al descubrir tus ojos negros.
 Dichosos los ojos que no te ven
@@ -22,7 +22,7 @@ y el corazón que te siente dentro.
 Te pregunté que qué esperabas,
 me dijiste que al chico perfecto
 "quizá no sea el más adecuado",
-"Para mi, puedes serlo".
+"Para mí, puedes serlo".
 Añoro el día en que tu piel toque
 y tus caricias me asciendan a los cielos,
 me desvivo por besar
@@ -30,7 +30,7 @@ cada letra de tu alfabeto,
 y recorrer tu espalda
 escribiendo un par de versos.
 Ser el refugio
-cuando no encuentres fuego
+cuando no encuentres fuego,
 pues recuerda lo que te dije:
 también quema el hielo.
 Déjeme recorrer tu cuerpo
@@ -46,6 +46,6 @@ con tu piel como lienzo.
 "Prométeme una a tu lado - dijiste-
 y por siempre serán tuyos mis sentimientos"
 Quien sabe, quizá el infinito
-tan sólo dure un momento,
+tan solo dure un momento,
 pero un instante a tu lado
 vale más que cualquier milenio.

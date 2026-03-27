@@ -19,7 +19,7 @@ por buscar a una princesa
 que se escapó de un cuento,
 por vivir en el presente
 y depender de este anhelo,
-por dejarlo todo a un lado
+por dejarlo todo a un lado,
 pues no existen ya recuerdos.
 Quizá no esté cabal,
 quizá estéis en lo cierto.

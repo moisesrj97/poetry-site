@@ -4,7 +4,7 @@ date: 2015-11-26
 ---
 
 Un millón de cuchillas
-desgarradome por dentro,
+desgarrándome por dentro,
 seccionando la garganta
 según van descendiendo...
 Inundando mis entrañas

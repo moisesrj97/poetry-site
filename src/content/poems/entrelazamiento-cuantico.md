@@ -24,8 +24,8 @@ Te siento cerca
 y a la vez tan lejos.
 
 Un espacio indeterminado
-que se torna complejo
-pues te tengo a veinte centímetros
+que se torna complejo,
+pues te tengo a veinte centímetros,
 pero no te alcanzan mis besos.
 
 Mi paciencia comparte cama
@@ -33,7 +33,7 @@ con la inmediatez y mis nervios
 discutiendo si 5 meses
 son fugaces o eternos
 en una eterna disputa
-donde la razón sólo la tiene el tiempo.
+donde la razón solo la tiene el tiempo.
 
 Mi cordura se escapa
 cuando por las noches
@@ -41,7 +41,7 @@ hablo con tu fotografía
 cierro los ojos con fuerza
 y creo sentir tu roce.
 
-Un dialogo espontáneo
+Un diálogo espontáneo
 disfrazado de soliloquio
 en que te cuento mis miedos,
 te hablo de mis sueños

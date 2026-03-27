@@ -12,7 +12,7 @@ se derrumba mi subsuelo.
 Pues ya no volverá
 el gorrión a alzar su vuelo.
 No queda en mis adentros
-nada más que hiel e hielo.
+nada más que hiel y hielo.
 Siento un vacío infinito
 en el centro de mi pecho.
 Pero, aunque te hayas ido

@@ -31,7 +31,7 @@ por no saber cómo un poema
 puede gritar tan alto,
 ni como un par de versos
 pueden incitar al pecado,
-cómo tan solo palabras
+cómo tan solo palabras,
 tan solo fonemas entrelazados
 pueden despertar flores
 o dejar campos arrasados,
@@ -51,11 +51,11 @@ cómo pueden hacerme vibrar,
 que mi estómago quede colapsado
 o sumirme en sueño profundo
 con un sedante pareado.
-Como puede vivir un escritor
-entre sus lineas atrapado,
+Cómo puede vivir un escritor
+entre sus líneas atrapado,
 obligado a ser eterno,
 a la inmortalidad forzado,
-pues podrá morir un hombre
+pues podrá morir un hombre,
 pero jamás lo hará su legado.
 Al igual que jamás
 entenderé yo este regalo,

@@ -44,7 +44,7 @@ y en cuando hablas de política
 y siento furia en tus palabras.
 
 A veces pienso en ti,
-y te ecribo lineas dedicadas,
+y te escribo líneas dedicadas,
 intentando plasmar
 lo que siento si me abrazas.
 

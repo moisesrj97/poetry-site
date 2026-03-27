@@ -1,8 +1,0 @@
----
-title: "Bajo la luna #8"
-date: 2015-01-11
----
-
-Absorto en mis pensamientos estoy a punto de chocar con un hombre que, si bien no estaba tirado en el suelo, la inclinación de sus bamboleos me mostraba que dentro de poco pasaría a estar en un plano paralelo al de la calzada, entonces le da un trago más a la botella que lleva escondida en una bolsa de papel como el niño que esconde el caramelo bajo su manga… la botella… ese arma capaz de matarte sin que te des cuenta, que hace que algún desgraciado pierda la vida cada noche en la carretera, que hace a un  padre incapaz de preocuparse por nada que no sea ese néctar, dejando de lado a una madre que llora a solas para no preocupar a su hijo, y a un hijo que crece muerto, maldiciendo el día en que el alcohol llego a su vida, que crece huérfano teniendo padre, que tiene que erigirse sobre su propia idea de hombre pues no tiene donde reflejare, un niño que se ve obligado a dejar de ser un niño y pasar a ser un hombre demasiado rápido; y no hay delito mayor que ese, que robar la inocencia a un niño que, aun así, es capaz de seguir adelante, luchando con ese lastre que le impide avanzar, soñando con despertar algún día más allá de las nubes, donde no haya problemas, ni gritos, ni llantos, ni golpes, ni portazos, no copas, ni cristales rotos, ni dolor, ni pena, ni gritos en silencio, ni tener que refugiarse para no ser alcanzado por la onda expansiva de esa bomba atómica llamada whisky, capaz de destrozar todo a su paso, pero obligado a despertar cada día, para volver a verse anegado por todo ello.
-
-Siguiente Capitulo

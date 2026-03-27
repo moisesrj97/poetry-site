@@ -29,15 +29,15 @@ Hemos vuelto a sentarnos en ese banco frente al palacio real y ese muchacho ha v
 
 Hemos vuelto a sentarnos en el suelo para escuchar un arpa rompiendo el atardecer.
 
-Un té ha calentado el ambiente en un tetería oculta cerca del paseo del Prado.
+Un té ha calentado el ambiente en una tetería oculta cerca del paseo del Prado.
 
-La plaza de Santa Ana ha vuelto a oir mis historias y ver tus sonrisas. Aunque esta vez no te he tapado los ojos. Los echaba de menos.
+La plaza de Santa Ana ha vuelto a oír mis historias y ver tus sonrisas. Aunque esta vez no te he tapado los ojos. Los echaba de menos.
 
 Te has empeñado en volver a jugar al escondite entre gatos, flores y pavos reales.
 
-Hemos sacado un rato para devorar otro libro en un biblioteca perdida del retiro.
+Hemos sacado un rato para devorar otro libro en una biblioteca perdida del retiro.
 
-He vuelto a recirarte dramáticamente en una de las calles que da a Tirso de Molina. Quizá el viernes que viene escuchemos música de nuevo.
+He vuelto a recitarte dramáticamente en una de las calles que da a Tirso de Molina. Quizá el viernes que viene escuchemos música de nuevo.
 
 Has vuelto a bailar alrededor de las farolas de la Almudena.
 
@@ -61,4 +61,4 @@ Hemos vuelto a comernos Madrid desde lo más profundo de mis sueños.
 
 Seré sincero, no echo de menos Madrid.
 
-Pero a ti. A ti si que te echo de menos.
+Pero a ti. A ti sí que te echo de menos.
