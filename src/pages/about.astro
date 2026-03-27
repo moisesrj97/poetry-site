@@ -3,14 +3,59 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="Quien soy">
-  <main>
-    <h1>Quien soy</h1>
-    <p>
-      Tan solo soy un alguien perdido en la ciudad, que encuentra las palabras
-      como método de fuga de este agobio. Muchos años de versos en una cabeza
-      que se me queda grande.
-    </p>
-    <p>Contacto: @moisesrj97 moisesrj97@gmail.com</p>
-    <a href="/">← Volver</a>
-  </main>
+	<div class="pb-32 pt-12">
+		<!-- Section label -->
+		<p class="mb-12 font-mono text-[11px] uppercase tracking-widest text-muted">
+			Quien soy
+		</p>
+
+		<!-- Heading -->
+		<h1
+			class="mb-14 font-display text-5xl font-normal leading-tight text-ink"
+		>
+			Sobre el autor
+		</h1>
+
+		<!-- Divider -->
+		<div
+			class="mb-14 border-t"
+			style="border-color: color-mix(in srgb, var(--ink) 15%, transparent)"
+		>
+		</div>
+
+		<!-- Bio -->
+		<div class="space-y-6">
+			<p
+				class="font-display text-xl font-normal leading-relaxed text-ink"
+			>
+				Como dijo Gloria,
+				<blockquote>
+					Nací para poeta o para muerto,<br >
+					escogí lo difícil.
+				</blockquote>
+			</p>
+		</div>
+
+		<!-- Contact -->
+		<div
+			class="mt-20 border-t pt-10"
+			style="border-color: color-mix(in srgb, var(--ink) 10%, transparent)"
+		>
+			<p
+				class="mb-5 font-mono text-[11px] uppercase tracking-widest text-muted"
+			>
+				Contacto
+			</p>
+			<div class="space-y-3">
+				<p>
+					<a
+						href="mailto:moisesrj97@gmail.com"
+						class="font-mono text-sm text-muted transition-colors duration-200 hover:text-ink"
+					>
+						moisesrj97@gmail.com
+					</a>
+				</p>
+			</div>
+		</div>
+	</div>
 </Layout>

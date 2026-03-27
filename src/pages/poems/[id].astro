@@ -12,19 +12,70 @@ const poems = await getCollection("poems");
 const poem = poems.find((p) => p.id === id);
 if (!poem) return Astro.redirect("/404");
 const { Content } = await render(poem);
+
+const formattedDate = poem.data.date.toLocaleDateString("es-ES", {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+});
 ---
 
 <Layout title={poem.data.title} description={poem.data.description}>
-  <main>
-    <a href="/">← Back</a>
-    <article>
-      <header>
-        <h1>{poem.data.title}</h1>
-        <time datetime={poem.data.date.toISOString()}>
-          {poem.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-        </time>
-      </header>
-      <Content />
-    </article>
-  </main>
+	<div class="pb-32 pt-12">
+		<!-- Back link -->
+		<a
+			href="/"
+			class="group mb-16 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 hover:text-ink"
+		>
+			<span
+				class="inline-block transition-transform duration-200 group-hover:-translate-x-1"
+				>←</span
+			>
+			Poemas
+		</a>
+
+		<!-- Poem header -->
+		<header class="mb-12">
+			<h1
+				class="mb-4 font-display text-4xl font-normal leading-tight tracking-wide text-ink"
+			>
+				{poem.data.title}
+			</h1>
+			<time
+				datetime={poem.data.date.toISOString()}
+				class="font-mono text-[11px] tracking-widest text-muted"
+			>
+				{formattedDate}
+			</time>
+		</header>
+
+		<!-- Divider -->
+		<div
+			class="mb-14 border-t"
+			style="border-color: color-mix(in srgb, var(--ink) 15%, transparent)"
+		>
+		</div>
+
+		<!-- Poem body -->
+		<div class="poem-content">
+			<Content />
+		</div>
+
+		<!-- Bottom nav -->
+		<div
+			class="mt-20 border-t pt-10"
+			style="border-color: color-mix(in srgb, var(--ink) 10%, transparent)"
+		>
+			<a
+				href="/"
+				class="group inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 hover:text-ink"
+			>
+				<span
+					class="inline-block transition-transform duration-200 group-hover:-translate-x-1"
+					>←</span
+				>
+				Todos los poemas
+			</a>
+		</div>
+	</div>
 </Layout>

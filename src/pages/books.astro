@@ -1,41 +1,90 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+const books = [
+	{
+		num: "01",
+		year: "2018",
+		title: "Nuestro rincón en silencio",
+		image: "/images/nuestro-rincon-en-silencio.jpg",
+		description:
+			"Recopilación de la mayoría de los poemas y textos que había escrito hasta el momento en que se publicó.",
+		href: "https://www.amazon.es/Nuestro-rinc%C3%B3n-silencio-Mois%C3%A9s-Rodr%C3%ADguez/dp/1542765536/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1590745493&sr=8-1",
+	},
+	{
+		num: "02",
+		year: "2019",
+		title: "Versos de caparazón — Poesía para tortugas",
+		image: "/images/versos-de-caparazon.jpg",
+		description:
+			"Un poemario en el que contemplo una forma de amar más lenta y centrada en los detalles, en los momentos cotidianos que normalmente no valoramos.",
+		href: "https://www.amazon.es/Versos-caparaz%C3%B3n-Poes%C3%ADa-para-tortugas/dp/1795034955/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1590745603&sr=8-1",
+	},
+];
 ---
 
-<Layout title="Mis libros">
-  <main>
-    <h1>Mis libros</h1>
-    <p>Puedes conseguir mis libros en Amazon.</p>
+<Layout title="Libros">
+	<div class="pb-32 pt-12">
+		<!-- Section label -->
+		<p class="mb-14 font-mono text-[11px] uppercase tracking-widest text-muted">
+			Publicaciones
+		</p>
 
-    <img src="/images/nuestro-rincon-en-silencio.jpg" alt="Nuestro rincón en silencio" />
-    <p>
-      <a
-        href="https://www.amazon.es/Nuestro-rinc%C3%B3n-silencio-Mois%C3%A9s-Rodr%C3%ADguez/dp/1542765536/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1590745493&sr=8-1"
-      >
-        Nuestro rincón en silencio
-      </a>
-    </p>
-    <p>
-      Recopilación de la mayoría de los poemas y textos que había escrito hasta
-      el momento en que se publicó.
-    </p>
+		<!-- Books -->
+		<div class="space-y-24">
+			{
+				books.map((book) => (
+					<article>
+						<!-- Book number + year rule -->
+						<div class="mb-8 flex items-center gap-4">
+							<span class="font-mono text-[11px] text-muted">
+								{book.num}
+							</span>
+							<div
+								class="flex-1 border-t"
+								style="border-color: color-mix(in srgb, var(--ink) 10%, transparent)"
+							/>
+							<span class="font-mono text-[11px] text-muted">
+								{book.year}
+							</span>
+						</div>
 
-    <img
-      src="/images/versos-de-caparazon.jpg"
-      alt="Versos de caparazón - Poesía para tortugas"
-    />
-    <p>
-      <a
-        href="https://www.amazon.es/Versos-caparaz%C3%B3n-Poes%C3%ADa-para-tortugas/dp/1795034955/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1590745603&sr=8-1"
-      >
-        Versos de caparazón - Poesía para tortugas
-      </a>
-    </p>
-    <p>
-      Un poemario en el que contemplo una forma de amar más lenta y centrada en
-      los detalles, en los momentos cotidianos que normalmente no valoramos.
-    </p>
+						<!-- Cover -->
+						<div class="mb-8">
+							<img
+								src={book.image}
+								alt={book.title}
+								class="h-auto w-36 object-cover shadow-sm"
+								loading="lazy"
+							/>
+						</div>
 
-    <a href="/">← Volver</a>
-  </main>
+						<!-- Title -->
+						<h2 class="mb-4 font-display text-3xl font-normal leading-snug text-ink">
+							{book.title}
+						</h2>
+
+						<!-- Description -->
+						<p class="mb-8 font-display text-base font-normal leading-relaxed text-muted">
+							{book.description}
+						</p>
+
+						<!-- CTA -->
+						<a
+							href={book.href}
+							target="_blank"
+							rel="noopener noreferrer"
+							class="inline-flex items-center gap-2 border px-5 py-3 font-mono text-[11px] uppercase tracking-widest transition-all duration-300"
+							style="color: var(--sepia); border-color: color-mix(in srgb, var(--sepia) 40%, transparent)"
+							onmouseover="this.style.backgroundColor='var(--sepia)'; this.style.color='var(--cream)'; this.style.borderColor='var(--sepia)'"
+							onmouseout="this.style.backgroundColor=''; this.style.color='var(--sepia)'; this.style.borderColor='color-mix(in srgb, var(--sepia) 40%, transparent)'"
+						>
+							Conseguir en Amazon
+							<span>↗</span>
+						</a>
+					</article>
+				))
+			}
+		</div>
+	</div>
 </Layout>

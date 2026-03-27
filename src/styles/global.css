@@ -1,1 +1,158 @@
 @import "tailwindcss";
+
+/* ─── Theme tokens ──────────────────────────────────────────── */
+
+:root {
+	--cream: #f7f4ef;
+	--ink: #1a1a18;
+	--muted: #9b9589;
+	--sepia: #8b7355;
+	--sepia-light: #c4a882;
+}
+
+[data-theme="dark"] {
+	--cream: #141210;
+	--ink: #e8e4dc;
+	--muted: #6b6560;
+	--sepia: #c4a882;
+	--sepia-light: #d9bc9a;
+}
+
+/* ─── Tailwind dynamic tokens ───────────────────────────────── */
+
+@theme inline {
+	--color-cream: var(--cream);
+	--color-ink: var(--ink);
+	--color-muted: var(--muted);
+	--color-sepia: var(--sepia);
+	--color-sepia-light: var(--sepia-light);
+
+	--font-display: "Cormorant Garamond", Georgia, serif;
+	--font-body: "Lora", Georgia, serif;
+	--font-mono: "DM Mono", "Courier New", monospace;
+
+	--width-reading: 720px;
+	--max-width-reading: 720px;
+}
+
+/* ─── Base ──────────────────────────────────────────────────── */
+
+@layer base {
+	html {
+		background-color: var(--cream);
+		color: var(--ink);
+		font-family: var(--font-display);
+		font-size: 18px;
+		line-height: 1.7;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		transition:
+			background-color 0.3s ease,
+			color 0.3s ease;
+		scrollbar-gutter: stable;
+	}
+
+	body {
+		min-height: 100vh;
+	}
+
+	/* Paper grain overlay */
+	body::after {
+		content: "";
+		position: fixed;
+		inset: 0;
+		pointer-events: none;
+		z-index: 9999;
+		opacity: 0.035;
+		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)'/%3E%3C/svg%3E");
+		background-repeat: repeat;
+	}
+
+	a {
+		color: inherit;
+		text-decoration: none;
+	}
+
+	h1,
+	h2,
+	h3 {
+		font-family: var(--font-display);
+		font-weight: 400;
+		letter-spacing: 0.01em;
+		line-height: 1.2;
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+}
+
+/* ─── Page fade-in ──────────────────────────────────────────── */
+
+@keyframes fade-in {
+	from {
+		opacity: 0;
+		transform: translateY(5px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+.animate-page {
+	animation: fade-in 0.45s ease-out both;
+}
+
+/* ─── Poem content ──────────────────────────────────────────── */
+
+.poem-content {
+	font-family: var(--font-body);
+	font-size: 1rem;
+	line-height: 1.9;
+	font-weight: 400;
+	color: var(--ink);
+}
+
+.poem-content p {
+	margin-bottom: 1.75em;
+}
+
+.poem-content p:last-child {
+	margin-bottom: 0;
+}
+
+.poem-content img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 2em 0;
+	font-style: normal;
+}
+
+.poem-content a {
+	color: var(--sepia);
+	text-underline-offset: 3px;
+	text-decoration: underline;
+	text-decoration-color: color-mix(in srgb, var(--sepia) 40%, transparent);
+}
+
+.poem-content em {
+	font-style: italic;
+}
+
+/* ─── Dotted leader (index TOC) ─────────────────────────────── */
+
+.dotted-leader {
+	display: flex;
+	align-items: baseline;
+	gap: 0.6rem;
+	width: 100%;
+}
+
+.dotted-leader-dots {
+	flex: 1;
+	border-bottom: 1px dotted color-mix(in srgb, var(--muted) 50%, transparent);
+	margin-bottom: 0.22em;
+	min-width: 1rem;
+}
