@@ -3,6 +3,8 @@ title: "Entrelazamiento cuántico"
 date: 2020-09-14
 ---
 
+![entrelazamiento-cuantico.jpg](../../../public/images/entrelazamiento-cuantico.jpg)
+
 Qué fácil quererte.
 
 Qué difícil verte

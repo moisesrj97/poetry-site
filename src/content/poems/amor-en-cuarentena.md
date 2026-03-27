@@ -3,6 +3,8 @@ title: "Amor en cuarentena"
 date: 2020-05-29
 ---
 
+![amor-en-cuarentena.jpg](../../../public/images/amor-en-cuarentena.jpg)
+
 El bolígrafo solloza
 al desgastarse de nuevo
 frente a un papel ajeno, que,
@@ -113,7 +115,5 @@ Lo que tengo claro
 es que espero ansioso el día
 en que acabe este encierro
 para atreverme a comprobarlo.
-
-
 
 Imagen de Pascal Campion

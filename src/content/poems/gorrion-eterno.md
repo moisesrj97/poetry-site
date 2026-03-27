@@ -3,6 +3,8 @@ title: "Gorrión eterno"
 date: 2020-05-31
 ---
 
+![gorrion-eterno.jpg](../../../public/images/gorrion-eterno.jpg)
+
 Hoy has vuelto.
 Baluarte de mi niñez,
 gorrión eterno.

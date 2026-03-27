@@ -3,6 +3,8 @@ title: "Yo por ti. Tú por mi."
 date: 2020-09-12
 ---
 
+![yo-por-ti-tu-por-mi.jpg](../../../public/images/yo-por-ti-tu-por-mi.jpg)
+
 Ahora
 que el mundo pende un hilo,
 que todo lo que tenemos

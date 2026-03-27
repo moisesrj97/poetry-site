@@ -3,6 +3,8 @@ title: "A ti"
 date: 2021-11-09
 ---
 
+![a-ti.jpeg](../../../public/images/a-ti.jpeg)
+
 Hoy te escribo a ti.
 
 A ti,

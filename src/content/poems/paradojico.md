@@ -3,6 +3,8 @@ title: "Paradójico"
 date: 2020-09-05
 ---
 
+![paradojico.jpg](../../../public/images/paradojico.jpg)
+
 Aunque no lo creas,
 te extraño.
 

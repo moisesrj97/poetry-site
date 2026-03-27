@@ -3,6 +3,8 @@ title: "Café"
 date: 2020-06-02
 ---
 
+![cafe.jpg](../../../public/images/cafe.jpg)
+
 En silencio.
 
 Buscando en los posos del café
