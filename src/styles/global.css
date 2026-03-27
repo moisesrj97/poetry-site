@@ -42,7 +42,7 @@
 		background-color: var(--cream);
 		color: var(--ink);
 		font-family: var(--font-display);
-		font-size: 18px;
+		font-size: 16px;
 		line-height: 1.7;
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
@@ -50,6 +50,12 @@
 			background-color 0.3s ease,
 			color 0.3s ease;
 		scrollbar-gutter: stable;
+	}
+
+	@media (min-width: 640px) {
+		html {
+			font-size: 18px;
+		}
 	}
 
 	body {

@@ -53,19 +53,19 @@ const nav = [
 			<!-- Header -->
 			<header class="w-full px-6 py-7">
 				<nav
-					class="mx-auto flex items-baseline justify-between"
+					class="mx-auto flex items-baseline justify-end sm:justify-between"
 					style="max-width: var(--width-reading)"
 				>
 					<!-- Site name -->
 					<a
 						href="/"
-						class="font-display text-base font-light tracking-wide transition-colors duration-300 hover:text-sepia"
+						class="hidden font-display text-base font-light tracking-wide transition-colors duration-300 hover:text-sepia sm:block"
 					>
 						Mi rincón en silencio
 					</a>
 
 					<!-- Nav links + theme toggle -->
-					<ul class="m-0 flex list-none items-baseline gap-6 p-0">
+					<ul class="m-0 flex list-none items-baseline gap-4 p-0 sm:gap-6">
 						{
 							nav.map(({ href, label }) => {
 								const isActive =
