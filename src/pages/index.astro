@@ -26,7 +26,7 @@ const poemIds = poems.map((p) => p.id);
 <Layout title="Poemas">
 	<div class="pb-24 pt-10">
 		<!-- Index header -->
-		<div class="mb-6 flex items-baseline justify-between">
+		<div class="mb-14 flex items-baseline justify-between">
 			<p class="font-mono text-[11px] uppercase tracking-widest text-muted">
 				Índice de poemas
 				<span class="ml-3 opacity-50">·</span>
@@ -39,20 +39,6 @@ const poemIds = poems.map((p) => p.id);
 				↯ Aleatorio
 			</button>
 		</div>
-
-		<!-- Year navigation -->
-		<nav class="mb-14 flex flex-wrap gap-5">
-			{
-				years.map((year) => (
-					<a
-						href={`#year-${year}`}
-						class="font-mono text-[11px] tracking-widest text-muted transition-colors duration-200 hover:text-ink"
-					>
-						{year}
-					</a>
-				))
-			}
-		</nav>
 
 		<!-- Year groups -->
 		{
