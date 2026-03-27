@@ -107,6 +107,6 @@ para seguir respirando.
 Mi aliento queda impregnado
 en el techo de mi cuarto.
 
- 
+
 
 "Me gustaría haber podido escribir esto 5 o 6 meses atrás, pero en aquel entonces no pude. Lo escribo ahora para recordarme a mi mismo dónde estuve y de donde salí. Gracias a todos los que estuvieron ahí aunque yo no estuviese, a los que esperaron mi regreso. Pero sobretodo gracias a mí mismo, por haber logrado salir de ese pozo."

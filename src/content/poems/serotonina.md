@@ -23,7 +23,7 @@ Me dice que esté tranquilo.
 Me sonríe y me repite
 que todo va a salir bien.
 Lo que no sabe es
-que ya estuve aquí, 
+que ya estuve aquí,
 que ya había salido,
 y otra vez he vuelto a caer.
 

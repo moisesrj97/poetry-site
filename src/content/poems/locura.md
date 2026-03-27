@@ -5,7 +5,7 @@ date: 2015-05-27
 
 Quizá solo este loco
 por pensar como te pienso,
-por rezarte cada noche 
+por rezarte cada noche
 y encontrarte con Morfeo,
 por pedir a cada estrella
 suplicando este deseo,

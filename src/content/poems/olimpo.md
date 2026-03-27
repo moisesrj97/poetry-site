@@ -10,7 +10,7 @@ y hallé tu rostro, sonriente...
 
 Hefesto,
 forjando estos lazos, resistentes
-que cierran mi corazón 
+que cierran mi corazón
 cuando mis ojos osan verte.
 
 Afrodita,
@@ -19,8 +19,8 @@ con esa rapaz mirada
 y esa risa que no se oye, se siente
 
 Apolo,
-destellos cobrizos sobre el celeste 
-de un cielo de mayo 
+destellos cobrizos sobre el celeste
+de un cielo de mayo
 en que pude conocerte.
 
 Hades,
@@ -29,14 +29,14 @@ pues cual poeta muerto
 busco compañía en esta muerte
 
 Dionisio,
-la alegría que busca este demente 
+la alegría que busca este demente
 y que solo encuentra en tu bromas,
-tu carcajada, fiesta perenne 
+tu carcajada, fiesta perenne
 
 Ares,
-atravesando mi corazón imberbe 
+atravesando mi corazón imberbe
 para caer al Tártaro que esconde
 trás de sí la comisura de tus dientes.
 
-Eres todos, más para mí 
+Eres todos, más para mí
 siempre serás Hermes

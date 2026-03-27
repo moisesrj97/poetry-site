@@ -7,5 +7,5 @@ Llorar sin soltar una lágrima
 estar rehén sin tener captor
 gritar sin abrir la boca
 no ver a plena luz
-luchar sin combatiente 
+luchar sin combatiente
 soñar sin ilusión...

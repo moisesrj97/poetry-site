@@ -11,11 +11,11 @@ y te veo difusa
 
 entre la guerra y su yugo,
 
-sitiada y confinada 
+sitiada y confinada
 
 entre artificiales muros.
 
-Ya no te encuentro 
+Ya no te encuentro
 
 en este tiznado mundo,
 

@@ -3,7 +3,7 @@ title: "Líneas para un preso"
 date: 2017-12-23
 ---
 
-Estimado amigo: 
+Estimado amigo:
 
 Aquí fuera ha vuelto a salir el sol.
 Hoy un bebé me ha hecho sonreir por la calle.

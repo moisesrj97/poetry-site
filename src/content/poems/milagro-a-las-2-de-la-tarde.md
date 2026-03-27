@@ -48,5 +48,5 @@ rodeado de serpientes.
 Espero que algún día entiendas
 el milagro de tu existencia,
 de un ser humano que no entiende
-la maldad de envejecer 
+la maldad de envejecer
 y el dolor que causa la conciencia.

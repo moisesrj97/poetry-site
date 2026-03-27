@@ -26,7 +26,7 @@ a la noche, de madrugada.
 El tigre que se esconde
 en la grieta de la montaña.
 
-Jamás sabré, niña, 
+Jamás sabré, niña,
 lo que tras tu iris descansa.
 Jamás podré, niña,
 olvidar tu mirada.

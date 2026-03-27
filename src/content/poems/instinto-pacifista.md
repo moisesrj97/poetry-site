@@ -75,7 +75,7 @@ de plástico y latón
 con una familia perdida.
 Por qué tiene que partir un hombre
 para convertirse en otra victima,
-de qué sirve un mártir 
+de qué sirve un mártir
 a una recién nacida hija
 a la que no arropará su padre
 hasta caer dormida.

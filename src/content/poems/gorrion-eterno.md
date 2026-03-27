@@ -35,7 +35,7 @@ El pequeño sabe tu nombre,
 te conoce aunque no te recuerde,
 quizá nunca llegue a escuchar
 todas tus historias,
-tener tu cariño, 
+tener tu cariño,
 recibir tus abrazos.
 
 A mí no me va mal.
@@ -59,6 +59,6 @@ Te sigo echando de menos.
 Baluarte de mi infancia,
 gorrión eterno.
 
- 
+
 
 Imagen de Nitin Singh

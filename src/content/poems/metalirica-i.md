@@ -3,7 +3,7 @@ title: "Metalírica (I)"
 date: 2016-04-07
 ---
 
-La melancolía 
+La melancolía
 de unos versos olvidados,
 de los que hablan de golondrinas
 o de rincones abandonados.

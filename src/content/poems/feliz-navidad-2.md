@@ -7,11 +7,11 @@ Recuerdos traicioneros
 humedecen mis pestañas,
 aprietan y lanzan
 al vacío estas lágrimas...
-¿Por qué pierdo siempre 
+¿Por qué pierdo siempre
 la luz que me acompaña?
-¿Por qué no encuentro ilusión 
-al despertar cada mañana? 
-¿Por qué solo en mis sueños 
+¿Por qué no encuentro ilusión
+al despertar cada mañana?
+¿Por qué solo en mis sueños
 puedo acariciar tu cara?
 ¿Por qué nadie comprende
 lo que mi mente arrasa?
@@ -20,15 +20,15 @@ lo que cargo a mis espaldas?
 ¿Acaso ellos entienden
 lo que me persigue en mis veladas?
 ¿Saben de las pesadillas,
-de estas ojeras tan pesadas? 
-¿Saben lo que es caminar 
+de estas ojeras tan pesadas?
+¿Saben lo que es caminar
 dando tumbos desde el alba?
 ¿Lo que es sentir que el mundo
 se cierra y te niega el habla?
 ¿Saben lo que es no ser capaz
 de decir una palabra
-porque la vergüenza 
-se aferra a mi garganta? 
+porque la vergüenza
+se aferra a mi garganta?
 ¿Comprenden lo que es tener
 un corazón que arde en llamas
 atrapado en muros
@@ -65,13 +65,13 @@ acabará dejando marca?
 lo que esconde mi mirada?
 ¿Que de tanto guardar amor
 acabará este por darme arcadas?
-¿Que acabará pudriéndose 
+¿Que acabará pudriéndose
 y en vez de cariño quedarán llagas?
 ¿Sentir que lo que me propongo
-mis dedos a tocar no alcanzan?  
-¿Sentir que eres del montón? 
+mis dedos a tocar no alcanzan?
+¿Sentir que eres del montón?
 ¿Sentir que todo te sobrepasa?
-¿Sentir que estás incompleto 
+¿Sentir que estás incompleto
 que solo tu vida está truncada?
 ¿Necesitar unos brazos
 y una sentir mi piel acariciada?

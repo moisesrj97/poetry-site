@@ -12,7 +12,7 @@ la que me para las piernas
 si al roce de su piel
 mi carne se vuelve piedra
 y me siento un pelele
-incapaz de dar respuesta 
+incapaz de dar respuesta
 a unos ojos que me claman
 y unos labios que me ruegan...
 Maldigo esta mi mente
@@ -22,7 +22,7 @@ el viento de mi vela?
 Por qué entonces me impides
 responder como espera.
 Y es que siento desfallecer
-cuando noto tu presencia 
+cuando noto tu presencia
 y mi cuerpo desobedece
 cuando llega tu sentencia.
 Esa que con el roce
@@ -36,11 +36,11 @@ que me salve de mi cabeza.
 No temas que no te aprecie,
 no temas que no te quiera,
 pues no hay cosa que mas desee
-que acariciar tu cabellera 
+que acariciar tu cabellera
 y cuando el frío nos asole
-ser de tu cuerpo la caldera, 
+ser de tu cuerpo la caldera,
 y así, entre tus brazos,
-vivir eterna primavera. 
+vivir eterna primavera.
 Si no son si no esos ojos
 los que inspiran estas letras.
 Si no son si no esos labios

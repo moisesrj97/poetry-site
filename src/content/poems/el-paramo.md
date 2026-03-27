@@ -50,9 +50,9 @@ que el planeta seguía enfermo
 y que en algún lugar
 aún existía la soledad.
 
-Sin querer 
+Sin querer
 habíamos creado una utopía,
-intentando escapar, por un momento, 
+intentando escapar, por un momento,
 de aquella realidad.
 
 Y en aquel lugar, frío y desolado,
@@ -64,11 +64,11 @@ cada vez que te fundías en mis brazos,
 cada vez que nos recordábamos
 que seguíamos siendo humanos.
 
-Mientras tanto, 
+Mientras tanto,
 en nuestro inconsciente,
 aquel recóndito rincón de la urbe
 perdió el sobrenombre de "páramo"
-porque ahora, 
+porque ahora,
 bendito por todo aquello
 que con tanto celo
 nos habíamos guardado,

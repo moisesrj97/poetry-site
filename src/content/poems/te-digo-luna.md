@@ -38,7 +38,7 @@ Te digo Luna porque eclipsas a las estrellas y me dejas estrellado.
 Te digo Luna por lo inalcanzable.
 
 Te digo Luna por lo inmenso,
-            
+
            por lo bello,
          por lo místico,
        por lo mimético,
@@ -47,6 +47,6 @@ Te digo Luna por lo inmenso,
 
 Te digo Luna por lo utópico.
 
-Te digo Luna, pequeña, porque soy poeta. 
+Te digo Luna, pequeña, porque soy poeta.
 
 Y los poetas vivimos enamorados de la Luna.
