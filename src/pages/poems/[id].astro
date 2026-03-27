@@ -8,10 +8,16 @@ export async function getStaticPaths() {
 }
 
 const { id } = Astro.params;
-const poems = await getCollection("poems");
-const poem = poems.find((p) => p.id === id);
-if (!poem) return Astro.redirect("/404");
+const poems = (await getCollection("poems")).sort(
+	(a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+const idx = poems.findIndex((p) => p.id === id);
+if (idx === -1) return Astro.redirect("/404");
+const poem = poems[idx];
 const { Content } = await render(poem);
+
+const prev = idx > 0 ? poems[idx - 1] : null;
+const next = idx < poems.length - 1 ? poems[idx + 1] : null;
 
 const formattedDate = poem.data.date.toLocaleDateString("es-ES", {
 	year: "numeric",
@@ -66,16 +72,55 @@ const formattedDate = poem.data.date.toLocaleDateString("es-ES", {
 			class="mt-20 border-t pt-10"
 			style="border-color: color-mix(in srgb, var(--ink) 10%, transparent)"
 		>
-			<a
-				href="/"
-				class="group inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 hover:text-ink"
-			>
-				<span
-					class="inline-block transition-transform duration-200 group-hover:-translate-x-1"
-					>←</span
+			<div class="flex items-start justify-between gap-4">
+				<!-- Prev -->
+				<div class="flex-1">
+					{
+						prev && (
+							<a
+								href={`/poems/${prev.id}`}
+								class="group flex flex-col gap-1"
+							>
+								<span class="flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 group-hover:text-ink">
+									<span class="inline-block transition-transform duration-200 group-hover:-translate-x-1">←</span>
+									Anterior
+								</span>
+								<span class="font-display text-sm text-muted transition-colors duration-200 group-hover:text-sepia">
+									{prev.data.title}
+								</span>
+							</a>
+						)
+					}
+				</div>
+
+				<!-- Index -->
+				<a
+					href="/"
+					class="font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 hover:text-ink"
 				>
-				Todos los poemas
-			</a>
+					Índice
+				</a>
+
+				<!-- Next -->
+				<div class="flex flex-1 justify-end">
+					{
+						next && (
+							<a
+								href={`/poems/${next.id}`}
+								class="group flex flex-col items-end gap-1"
+							>
+								<span class="flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 group-hover:text-ink">
+									Siguiente
+									<span class="inline-block transition-transform duration-200 group-hover:translate-x-1">→</span>
+								</span>
+								<span class="font-display text-sm text-right text-muted transition-colors duration-200 group-hover:text-sepia">
+									{next.data.title}
+								</span>
+							</a>
+						)
+					}
+				</div>
+			</div>
 		</div>
 	</div>
 </Layout>
