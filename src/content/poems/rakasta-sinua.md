@@ -3,7 +3,7 @@ title: "Rakasta sinua"
 date: 2020-10-27
 ---
 
-![rakasta-sinua.jpg](../../../public/images/rakasta-sinua.jpg)
+![rakasta-sinua.jpg](/images/rakasta-sinua.jpg)
 
 Luz blanquecina
 atraviesa una ventana

@@ -3,7 +3,7 @@ title: "(Am)arte"
 date: 2018-07-25
 ---
 
-![amarte.jpg](../../../public/images/amarte.jpg)
+![amarte.jpg](/images/amarte.jpg)
 
 Los besos son más esperados
 si tienen segunda (p)arte.

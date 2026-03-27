@@ -3,7 +3,7 @@ title: "Sol y Luna"
 date: 2018-09-24
 ---
 
-![sol-y-luna.jpg](../../../public/images/sol-y-luna.jpg)
+![sol-y-luna.jpg](/images/sol-y-luna.jpg)
 
 Ella era Sol. Cuando se acercaba a él lo hacía acechando, como una leona. Su manada siempre fue reducida, dispersa, tuvo que aprender a cazar desde pequeña. Le gustaba caminar bajo los rayos de su tocayo del cielo, moviendo su oscura figura con la elegancia de la que sabe que la miran mientras camina. Pese a ser leona, siempre ondeaba su melena al viento. Le gustaba el calor de la sabana, la vainilla y el café.
 

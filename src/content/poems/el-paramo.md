@@ -3,7 +3,7 @@ title: "El páramo"
 date: 2020-06-09
 ---
 
-![el-paramo.jpg](../../../public/images/el-paramo.jpg)
+![el-paramo.jpg](/images/el-paramo.jpg)
 
 En la lejanía
 el viento nos susurraba

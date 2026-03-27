@@ -3,7 +3,7 @@ title: "Amor en cuarentena"
 date: 2020-05-29
 ---
 
-![amor-en-cuarentena.jpg](../../../public/images/amor-en-cuarentena.jpg)
+![amor-en-cuarentena.jpg](/images/amor-en-cuarentena.jpg)
 
 El bolígrafo solloza
 al desgastarse de nuevo
