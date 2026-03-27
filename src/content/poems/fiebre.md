@@ -45,4 +45,4 @@ Pero esta noche dormiré bien abrigado.
 
 La fiebre se irá pronto.
 
-Y con ella, **te irás tú.**
+Y con ella, te irás tú.

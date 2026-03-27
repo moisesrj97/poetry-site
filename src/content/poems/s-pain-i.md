@@ -3,4 +3,77 @@ title: "S-Pain (I)"
 date: 2016-03-27
 ---
 
-A veces creo que lo que falla no es tan solo el sistema, si no las sombras que lo mueven, deforman y a su placer moldean. Quizá sea yo el demente, por criticar un mundo de mierda, donde un simple techo, una triste casa cubierta, no es un derecho universal que toda persona merezca y deja a indigentes en la calle mientras se congelan, mientras mueren de inanición y su llanto se vuelve niebla. Pero el rocío de su espíritu, se precipita sobre la tierra y nutre a las semillas que aguardaban con impaciencia, y brotarán entonces sendas flores rojas rosas, moradas violetas. Donde no pueda estudiar un brillante joven una carrera porque tenga que trabajar para llenar su nevera. Y podréis cerrar mis labios mas no coseréis mis ideas. Podréis atarme los brazos pero entonces mi mente vuela. Podréis ocultarnos metiéndonos entre rejas, pero con gritos de revolución volarán palomas mensajeras. Podréis cortar mis manos para no leer estas letras, pero no conseguiréis nada, pues esta llama es eterna. Y aun sin manos, brazos y la boca cosida entera entonaré desde mi vientre versos de exiliados poetas. Que vuestras cortinas de humo enmascarando la prensa no hacen que un jubilado vea comida en su despensa. No hacen que un parado pueda pagar su hipoteca y así no quede en la calle otra familia entera sin tener un triste agujero donde dormir cuando el frío aprieta, luego les llamaréis ocupas, los arrancáis de sus viviendas y cuando buscan cobijo ya no acatan vuestra enmienda, y entonces vuestros perritos los deshaucian a la fuerza. Que vuestras mentiras no evitan el cierre de escuelas. Que vuestros bulos solo hacen que siga creciendo esta grieta. Y me llamarán rebelde por ver marchita esta tierra yerma, y sus perros y sus jueces impondrán su reprimenda. Nos cerrarán ojos y boca, nos atarán de brazos y piernas, el leviatán nos engullirá y creerán haber ganado esta guerra. Pero no olvidéis, políticos, imputados, jueces, marionetas. Lo que ocurre cuando inflas un globo más de la cuenta. Estira, hasta que se cansa. Estira, hasta que revienta.
+A veces creo que lo que falla
+no es tan solo el sistema,
+si no las sombras que lo mueven,
+deforman y a su placer moldean.
+Quizá sea yo el demente,
+por criticar un mundo de mierda,
+donde un simple techo,
+una triste casa cubierta,
+no es un derecho universal
+que toda persona merezca
+y deja a indigentes
+en la calle mientras se congelan,
+mientras mueren de inanición
+y su llanto se vuelve niebla.
+Pero el rocío de su espíritu,
+se precipita sobre la tierra
+y nutre a las semillas
+que aguardaban con impaciencia,
+y brotarán entonces sendas flores
+rojas rosas, moradas violetas.
+Donde no pueda estudiar
+un brillante joven una carrera
+porque tenga que trabajar
+para llenar su nevera.
+Y podréis cerrar mis labios
+mas no coseréis mis ideas.
+Podréis atarme los brazos
+pero entonces mi mente vuela.
+Podréis ocultarnos
+metiéndonos entre rejas,
+pero con gritos de revolución
+volarán palomas mensajeras.
+Podréis cortar mis manos
+para no leer estas letras,
+pero no conseguiréis nada,
+pues esta llama es eterna.
+Y aun sin manos, brazos
+y la boca cosida entera
+entonaré desde mi vientre
+versos de exiliados poetas.
+Que vuestras cortinas de humo
+enmascarando la prensa
+no hacen que un jubilado
+vea comida en su despensa.
+No hacen que un parado
+pueda pagar su hipoteca
+y así no quede en la calle
+otra familia entera
+sin tener un triste agujero
+donde dormir cuando el frío aprieta,
+luego les llamaréis ocupas,
+los arrancáis de sus viviendas
+y cuando buscan cobijo
+ya no acatan vuestra enmienda,
+y entonces vuestros perritos
+los deshaucian a la fuerza.
+Que vuestras mentiras no evitan
+el cierre de escuelas.
+Que vuestros bulos solo hacen
+que siga creciendo esta grieta.
+Y me llamarán rebelde
+por ver marchita esta tierra yerma,
+y sus perros y sus jueces
+impondrán su reprimenda.
+Nos cerrarán ojos y boca,
+nos atarán de brazos y piernas,
+el leviatán nos engullirá
+y creerán haber ganado esta guerra.
+Pero no olvidéis, políticos,
+imputados, jueces, marionetas.
+Lo que ocurre cuando inflas
+un globo más de la cuenta.
+Estira, hasta que se cansa.
+Estira, hasta que revienta.

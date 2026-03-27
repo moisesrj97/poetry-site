@@ -3,70 +3,134 @@ title: "Líneas para un preso"
 date: 2017-12-23
 ---
 
-_Estimado amigo__:_
+Estimado amigo: 
 
-_Aquí fuera ha vuelto a salir el sol._ _Hoy un bebé me ha hecho sonreir por la calle._ _Las nubes siguen teniendo formas indescriptibles._ _Los abrazos, de momento, siguen dando calor._
+Aquí fuera ha vuelto a salir el sol.
+Hoy un bebé me ha hecho sonreir por la calle.
+Las nubes siguen teniendo formas indescriptibles.
+Los abrazos, de momento, siguen dando calor.
 
-_Cuéntame de nuevo cómo son esas cuatro paredes._ _Cuéntame de nuevo a qué sabe la soledad._
+Cuéntame de nuevo cómo son esas cuatro paredes.
+Cuéntame de nuevo a qué sabe la soledad.
 
-_Lejos de esa cárcel el viento sigue corriendo._ _Hoy me ha traído el olor de las flores._ _Quizá mañana me recuerde al mar._ _Ayer me pareció oler tu perfume._
+Lejos de esa cárcel el viento sigue corriendo.
+Hoy me ha traído el olor de las flores.
+Quizá mañana me recuerde al mar.
+Ayer me pareció oler tu perfume.
 
-_Cómo es la piel de una persona que no recibe luz._ _Cómo los ojos de quien no puede ver el cielo._
+Cómo es la piel de una persona que no recibe luz.
+Cómo los ojos de quien no puede ver el cielo.
 
-_Parece que la tierra siga girando._ _Al menos eso nos hacen creer las estrellas._ _Quizá todo sea una mentira._ _Quizá todos vivamos atrapados en una prisión celeste._
+Parece que la tierra siga girando.
+Al menos eso nos hacen creer las estrellas.
+Quizá todo sea una mentira.
+Quizá todos vivamos atrapados en una prisión celeste.
 
-_¿Siguen sintiendo las manos que no conocen a otras manos?_ _Prométeme que aún no te has comido tu propia lengua._
+¿Siguen sintiendo las manos que no conocen a otras manos?
+Prométeme que aún no te has comido tu propia lengua.
 
-_El amor sigue siendo una incógnita._ _Los enamorados siguen cayendo en su trampa._ _Los poetas siguen intentando despejar esa x._ _Hay insensatos que aún intentan huir de él._
+El amor sigue siendo una incógnita.
+Los enamorados siguen cayendo en su trampa.
+Los poetas siguen intentando despejar esa x.
+Hay insensatos que aún intentan huir de él.
 
-_Pero acaso amar no duele._ _Acaso no duele._
+Pero acaso amar no duele.
+Acaso no duele.
 
-_La libertad brilla por su ausencia._ _La justicia se ha encariñado del prefijo "in-"_. _Pero seguimos en las trincheras._ _Seguimos sin aceptar sus banderas._
+La libertad brilla por su ausencia.
+La justicia se ha encariñado del prefijo "in-".
+Pero seguimos en las trincheras.
+Seguimos sin aceptar sus banderas.
 
-_Dime que no existe patria tras esos muros._ _Dime que no te has olvidado de lo que era amar._
+Dime que no existe patria tras esos muros.
+Dime que no te has olvidado de lo que era amar.
 
-_Aquí seguimos respirando más de la cuenta._ _Parece que el aire no se acabará jamás._ _Tampoco se iba a acabar el petróleo._ _Tampoco las caricias._
+Aquí seguimos respirando más de la cuenta.
+Parece que el aire no se acabará jamás.
+Tampoco se iba a acabar el petróleo.
+Tampoco las caricias.
 
-_¿Hace falta respirar si nadie te ve?_ _¿Los barrotes son agradable compañía?_
+¿Hace falta respirar si nadie te ve?
+¿Los barrotes son agradable compañía?
 
-_Hoy he vuelto a llorar al recordarte._ _Las lágrimas sabían ya rancias._ _Quizá llegan tarde._ _Quizá llegan demasiado tarde._
+Hoy he vuelto a llorar al recordarte.
+Las lágrimas sabían ya rancias.
+Quizá llegan tarde.
+Quizá llegan demasiado tarde.
 
-_¿Alguien llora ahí dentro?_ _¿Lloran los ladrillos?_
+¿Alguien llora ahí dentro?
+¿Lloran los ladrillos?
 
-_El tiempo sigue sin darnos tregua._ _El silencio aún no ha vuelto._ _Los versos cada vez laten menos._ _Mi poesía es enferma terminal._
+El tiempo sigue sin darnos tregua.
+El silencio aún no ha vuelto.
+Los versos cada vez laten menos.
+Mi poesía es enferma terminal.
 
-_¿Acaso riman los segundos en tu presidio?_ _¿Puede haber metáfora que alivie tu cautiverio?_
+¿Acaso riman los segundos en tu presidio?
+¿Puede haber metáfora que alivie tu cautiverio?
 
-_La familia perdió mi sangre._ _Los amigos migraron._ _El amor cambió de estación._ _Las golondrinas se volvieron gárgolas._
+La familia perdió mi sangre.
+Los amigos migraron.
+El amor cambió de estación.
+Las golondrinas se volvieron gárgolas.
 
-_¿Recuerdas lo que te dije?_ _¿Los recuerdos cumplen condena?_
+¿Recuerdas lo que te dije?
+¿Los recuerdos cumplen condena?
 
-_Aquí fuera los pájaros cantan._ _Los peces siguen nadando._ _Las niñas siguen riendo._ _El sol sigue saliendo._
+Aquí fuera los pájaros cantan.
+Los peces siguen nadando.
+Las niñas siguen riendo.
+El sol sigue saliendo.
 
-_¿Son las ratas poetas clandestinas en la cárcel?_ _¿Es la Luna mecenas de los literatos presos?_
+¿Son las ratas poetas clandestinas en la cárcel?
+¿Es la Luna mecenas de los literatos presos?
 
-_El otoño sigue desanimándome._ _El invierno sigue durmiéndome._ _La primavera sigue acariciándome._ _El verano sigue quemándome._
+El otoño sigue desanimándome.
+El invierno sigue durmiéndome.
+La primavera sigue acariciándome.
+El verano sigue quemándome.
 
-_¿Cuantas horas tiene allí un día?_ _¿Cuantas veces late un corazón?_
+¿Cuantas horas tiene allí un día?
+¿Cuantas veces late un corazón?
 
-_El espejo sigue engañándome._ _Sigue produciendo alucinaciones._ _Me muestra donde me encuentro._ _En el mismo lugar donde me encuentro._
+El espejo sigue engañándome.
+Sigue produciendo alucinaciones.
+Me muestra donde me encuentro.
+En el mismo lugar donde me encuentro.
 
-_Dime que sigues teniéndome contigo._ _Que no has abandonado mi presencia._
+Dime que sigues teniéndome contigo.
+Que no has abandonado mi presencia.
 
-_Desde fuera todo parece igual._ _Quien te quería lo sigue haciendo._ _Hay quien te ha olvidado._ _Hay quien aún te recuerda._
+Desde fuera todo parece igual.
+Quien te quería lo sigue haciendo.
+Hay quien te ha olvidado.
+Hay quien aún te recuerda.
 
-_Prométeme que escaparás._ _Dime que el muro cada vez es más frágil._
+Prométeme que escaparás.
+Dime que el muro cada vez es más frágil.
 
-_Hoy un árbol me confesó su pena._ _La brisa me dijo que te añora._ _El suelo echa de menos tus pies._ _El Sol echa de menos rozar tus labios._
+Hoy un árbol me confesó su pena.
+La brisa me dijo que te añora.
+El suelo echa de menos tus pies.
+El Sol echa de menos rozar tus labios.
 
-_¿La mente puede ser presa?_ _¿Puedes ser preso de la mente?_
+¿La mente puede ser presa?
+¿Puedes ser preso de la mente?
 
-_Las palabras siguen fluyendo._ _Siguen naciendo frases._ _Hay quien sigue callando._ _Hay quien sigue cayendo._
+Las palabras siguen fluyendo.
+Siguen naciendo frases.
+Hay quien sigue callando.
+Hay quien sigue cayendo.
 
-_Quizá hayas olvidado las palabras._ _Quizá ahora hables el idioma de la piedra._
+Quizá hayas olvidado las palabras.
+Quizá ahora hables el idioma de la piedra.
 
-_Todo sigue como lo dejaste._ _Tus zapatos siguen a mitad de camino._ _Tu vieja camisa destemplada._ _Tus pantalones te esperan llenos de parches._
+Todo sigue como lo dejaste.
+Tus zapatos siguen a mitad de camino.
+Tu vieja camisa destemplada.
+Tus pantalones te esperan llenos de parches.
 
-_Júrame que cuando salgas recordarás el nombre de la libertad._ _Júrame que cuando salgas recordarás el nombre de éste que te escribe._
+Júrame que cuando salgas recordarás el nombre de la libertad.
+Júrame que cuando salgas recordarás el nombre de éste que te escribe.
 
-_Firmado:_
+Firmado:

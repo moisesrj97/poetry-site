@@ -56,7 +56,6 @@ A despertar entre fuego,
 llantos y lamentos,
 
 rodeado de corazones heridos.
-
 Perdón.
 
 Att: Bola de demolición

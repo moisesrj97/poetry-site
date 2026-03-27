@@ -3,8 +3,6 @@ title: "Sol y Luna"
 date: 2018-09-24
 ---
 
-![screenshot_20180924-121504975389695.jpg](/images/sol-y-luna.jpg)
-
 Ella era Sol. Cuando se acercaba a él lo hacía acechando, como una leona. Su manada siempre fue reducida, dispersa, tuvo que aprender a cazar desde pequeña. Le gustaba caminar bajo los rayos de su tocayo del cielo, moviendo su oscura figura con la elegancia de la que sabe que la miran mientras camina. Pese a ser leona, siempre ondeaba su melena al viento. Le gustaba el calor de la sabana, la vainilla y el café.
 
 Él era Luna. Al contrario que Sol, era mucho más canino que felino. Vivía enamorado de las estrellas y de su homónima flotante. Por las noches, cuando miraba al cielo sin decir palabra, por lo pálido de su piel y el vapor que salía de su nariz se le podría confundir con un lobo. Desde cachorro fue pasando de manada en manada, recibiendo mordiscos y sumando cicatrices a su ya cansado hocico. Finalmente decidió que la soledad no era tan mala compañía. Le gustaba el frío de la montaña, el limón y el té.
@@ -39,4 +37,4 @@ Ilustración: 72kilos
 
 72kilos.com
 
-Disponible en: https://www.instagram.com/p/BoFLqvZlCp8/?utm\_source=ig\_share\_sheet&igshid=48ui5czfrb6e
+Disponible en: https://www.instagram.com/p/BoFLqvZlCp8/?utm_source=ig_share_sheet&igshid=48ui5czfrb6e

@@ -3,9 +3,8 @@ title: "Recidiva"
 date: 2018-05-02
 ---
 
-_"Del lat. recidīva, f. de recidīvus 'que renace', 'que se renueva'._
-
-_1._ _f. Med. Reaparición de una enfermedad algún tiempo después de padecida."_
+"Del lat. recidīva, f. de recidīvus 'que renace', 'que se renueva'.
+1. f. Med. Reaparición de una enfermedad algún tiempo después de padecida."
 
 Hay días en los que el pasado
 

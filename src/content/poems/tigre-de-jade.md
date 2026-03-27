@@ -3,49 +3,64 @@ title: "Tigre de jade"
 date: 2017-10-02
 ---
 
-El huracán  
+El huracán
+
 que dobla la palmera.
 
-El sol de primavera  
+El sol de primavera
+
 que derrite la escarcha.
 
-El cincel  
+El cincel
+
 que moldea el hielo.
 
-Las lágrimas  
+Las lágrimas
+
 que hidratan unos labios secos.
 
-Las manos  
+Las manos
+
 que acarician un corazón raído.
 
-Un beso  
+Un beso
+
 entre la multitud.
 
-Especias  
+Especias
+
 entre las flores.
 
-Una caricia  
+Una caricia
+
 bajo la mesa.
 
-Dulce y picante  
+Dulce y picante
+
 sobre una lengua dormida.
 
-Un grito  
+Un grito
+
 al silencio.
 
-Dientes  
+Dientes
+
 alrededor de una nube.
 
-Labios calientes  
+Labios calientes
+
 sobre el cuarzo.
 
-Un abrazo  
+Un abrazo
+
 al fin del mundo.
 
-Un suspiro  
+Un suspiro
+
 en el ojo de la tormenta.
 
-La revolución  
+La revolución
+
 de una mente dormida.
 
 Una mirada asesina.

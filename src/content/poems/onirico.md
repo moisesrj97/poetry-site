@@ -26,7 +26,6 @@ se hayan tornado pesadillas.
 Cómo duele darse cuenta
 
 de que todo fue por mi culpa.
-
 Cómo duele no haber leído El Principito.
 
 Cómo duele soñar con una Luna preciosa de ojos verdes

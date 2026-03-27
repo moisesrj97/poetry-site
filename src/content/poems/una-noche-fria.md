@@ -3,4 +3,49 @@ title: "Una noche fría"
 date: 2015-12-29
 ---
 
-Como la señal devastada cuando perdido estaba mi sendero, como el abrigo que hace el camino más ameno. Te encontré cuando lo di todo por muerto, cuando pensé que mis palabras morirían en el silencio y había tomado a la soledad como único compañero. Una noche fría de las que rozan Enero, toqué la eternidad al descubrir tus ojos negros. Dichosos los ojos que no te ven y el corazón que te siente dentro. Te pregunté que qué esperabas, me dijiste que al chico perfecto "quizá no sea el más adecuado", "Para mi, puedes serlo". Añoro el día en que tu piel toque y tus caricias me asciendan a los cielos, me desvivo por besar cada letra de tu alfabeto, y recorrer tu espalda escribiendo un par de versos. Ser el refugio cuando no encuentres fuego pues recuerda lo que te dije: también quema el hielo. Déjeme recorrer tu cuerpo con manos de alfarero, acariciar cada detalle susurrándote un "Te quiero" Tatuarte un infinito sin más tinta que mis besos sin más aguja que estos labios con tu piel como lienzo. "¿Cuánto dura una eternidad?" "Lo que quieran los viajeros" "Prométeme una a tu lado - dijiste- y por siempre serán tuyos mis sentimientos" Quien sabe, quizá el infinito tan sólo dure un momento, pero un instante a tu lado vale más que cualquier milenio.
+Como la señal devastada 
+cuando perdido estaba mi sendero, 
+como el abrigo
+que hace el camino más ameno. 
+Te encontré cuando
+lo di todo por muerto,
+cuando pensé que mis palabras
+morirían en el silencio 
+y había tomado a la soledad
+como único compañero. 
+Una noche fría
+de las que rozan Enero, 
+toqué la eternidad
+al descubrir tus ojos negros.
+Dichosos los ojos que no te ven
+y el corazón que te siente dentro. 
+Te pregunté que qué esperabas,
+me dijiste que al chico perfecto 
+"quizá no sea el más adecuado", 
+"Para mi, puedes serlo". 
+Añoro el día en que tu piel toque
+y tus caricias me asciendan a los cielos, 
+me desvivo por besar
+cada letra de tu alfabeto, 
+y recorrer tu espalda
+escribiendo un par de versos. 
+Ser el refugio 
+cuando no encuentres fuego
+pues recuerda lo que te dije:
+también quema el hielo.
+Déjeme recorrer tu cuerpo 
+con manos de alfarero, 
+acariciar cada detalle
+susurrándote un "Te quiero" 
+Tatuarte un infinito
+sin más tinta que mis besos
+sin más aguja que estos labios 
+con tu piel como lienzo. 
+"¿Cuánto dura una eternidad?"
+"Lo que quieran los viajeros"
+"Prométeme una a tu lado - dijiste-
+y por siempre serán tuyos mis sentimientos"
+Quien sabe, quizá el infinito 
+tan sólo dure un momento, 
+pero un instante a tu lado
+vale más que cualquier milenio.
