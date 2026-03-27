@@ -1,0 +1,8 @@
+---
+title: "Bajo la luna #9"
+date: 2015-01-20
+---
+
+Acaba el primer disco y supongo que ya es hora de escuchar el próximo, pero para ello me quito los cascos que me aíslan de la realidad y me sorprendo a mi mismo maravillado frente a aquel concierto digno de la mejor orquesta, que cautiva mis sentidos y relaja todos mis músculos: el silencio. Es curioso como él, sin ser nada, lo es todo para mi, solo cuando él me acompaña puedo volver a hablar, puedo volver a recitar versos sin limitarme a escribirlos, cuando él está conmigo me e siento tranquilo, que que sé que jamás me abandonará, él me ayuda a evadirme de este mundo en el que la criatura mas fuerte o la que es capaz de levantar mas el tono de voz es la que lleva la razón, dejando a un lado la verdadera razón; él es el único que nunca falta, que me ayuda a combatir a la soledad con sus dientes envenenados, bestia dispuesta a desgarrarme el alma al mínimo atisbo de debilidad; él es el que me infunde la inspiración necesaria para plasmar mis sentimientos sobre el papel en forma de versos, criaturas inmortales capaces de dar vida, de matar, de sufrir, versos conformados por esquirlas de mi alma, sentenciados a vivir atados al papel, incapaces de volar lejos de su prisión debido a que su creador es incapaz de articular palabra... Versos de amor con sus corazones prisioneros, versos de odio dirigidos como una bala hacia mi sien, versos de rabia que arden en mis entrañas, versos de soledad que como un velo invisible te aislan del mundo, versos de pena escritos con sangre y lagrimas, versos de nostalgia con sus golondrinas... tan solo versos, quiméricos seres capaces de tomar forma de sentimientos mimetizados entre las palabras en forma de metáforas...
+
+[Siguiente Capitulo](http://sh.st/ah0ZB)

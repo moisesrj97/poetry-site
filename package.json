@@ -12,7 +12,10 @@
 		"astro": "astro",
 		"lint": "biome check .",
 		"format": "biome format --write .",
-		"prepare": "husky"
+		"prepare": "husky",
+		"images:compress": "node scripts/images/compress.mjs",
+		"images:check-unused": "node scripts/images/check-unused.mjs",
+		"images:check-missing": "node scripts/images/check-missing.mjs"
 	},
 	"dependencies": {
 		"@astrojs/react": "^5.0.2",
@@ -30,6 +33,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "^2.4.9",
 		"husky": "^9.1.7",
-		"lint-staged": "^16.4.0"
+		"lint-staged": "^16.4.0",
+		"sharp": "^0.34.5"
 	}
 }
