@@ -13,6 +13,7 @@
 		"lint": "biome check .",
 		"format": "biome format --write .",
 		"prepare": "husky",
+		"images:all": "pnpm images:compress && pnpm images:check-unused && pnpm images:check-missing",
 		"images:compress": "node scripts/images/compress.mjs",
 		"images:check-unused": "node scripts/images/check-unused.mjs",
 		"images:check-missing": "node scripts/images/check-missing.mjs"
