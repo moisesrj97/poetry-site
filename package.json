@@ -28,12 +28,13 @@
 		"tailwindcss": "^4.2.2"
 	},
 	"lint-staged": {
-		"*.{js,ts,jsx,tsx,astro,json,css}": "biome check --write"
+		"src/**/*.{js,ts,jsx,tsx,astro,json,css}": "biome check --write"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.4.9",
 		"husky": "^9.1.7",
 		"lint-staged": "^16.4.0",
+		"remark-breaks": "^4.0.0",
 		"sharp": "^0.34.5"
 	}
 }
