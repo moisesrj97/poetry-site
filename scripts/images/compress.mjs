@@ -20,6 +20,8 @@ const files = readdirSync(IMAGES_DIR);
 let totalBefore = 0;
 let totalAfter = 0;
 let skipped = 0;
+let compressed = 0;
+let failed = 0;
 
 for (const file of files) {
 	const ext = extname(file).toLowerCase();
@@ -57,18 +59,32 @@ for (const file of files) {
 		const saved = (((sizeBefore - sizeAfter) / sizeBefore) * 100).toFixed(1);
 		console.log(`✓ ${file}: ${kb(sizeBefore)} → ${kb(sizeAfter)} (−${saved}%)`);
 		totalAfter += sizeAfter;
+		compressed++;
 	} catch (err) {
 		console.error(`✗ ${file}: ${err.message}`);
 		totalAfter += sizeBefore;
+		failed++;
 	}
 }
 
 writeFileSync(CACHE_FILE, JSON.stringify(cache, null, "\t"));
 
-const savedTotal = (((totalBefore - totalAfter) / totalBefore) * 100).toFixed(1);
+const savedTotal = totalBefore
+	? (((totalBefore - totalAfter) / totalBefore) * 100).toFixed(1)
+	: "0.0";
 console.log(
 	`\nTotal: ${kb(totalBefore)} → ${kb(totalAfter)} (−${savedTotal}%)${skipped ? `, ${skipped} skipped` : ""}`,
 );
+
+if (failed > 0) {
+	console.error(`\nCompression failed for ${failed} image(s).`);
+	process.exit(1);
+}
+
+if (compressed > 0) {
+	console.error(`\nCompression updated ${compressed} image(s). Commit the optimized images and re-run.`);
+	process.exit(1);
+}
 
 function kb(bytes) {
 	return `${(bytes / 1024).toFixed(1)} KB`;
