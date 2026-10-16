@@ -1,0 +1,51 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Página no encontrada">
+	<div class="pb-32 pt-12">
+		<p class="mb-12 font-mono text-[11px] uppercase tracking-widest text-muted">
+			404
+		</p>
+
+		<h1
+			class="mb-14 font-display text-5xl font-normal leading-tight text-ink"
+		>
+			Página no encontrada
+		</h1>
+
+		<div
+			class="mb-14 border-t"
+			style="border-color: color-mix(in srgb, var(--ink) 15%, transparent)"
+		>
+		</div>
+
+		<blockquote class="border-l-2 border-sepia pl-4">
+			<p class="font-body text-lg italic leading-relaxed text-ink">
+				Volverán las oscuras golondrinas<br />
+				en tu balcón sus nidos a colgar,<br />
+				<span class="text-sepia">la página que buscas, sin embargo,<br />
+				ésta... ¡no volverá!</span>
+			</p>
+			<footer class="mt-4 font-mono text-[11px] tracking-widest text-muted">
+				— Bécquer, más o menos
+			</footer>
+		</blockquote>
+
+		<div
+			class="mt-20 border-t pt-10"
+			style="border-color: color-mix(in srgb, var(--ink) 10%, transparent)"
+		>
+			<a
+				href="/"
+				class="group inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-muted transition-colors duration-200 hover:text-ink"
+			>
+				<span
+					class="inline-block transition-transform duration-200 group-hover:-translate-x-1"
+					>←</span
+				>
+				Volver a los poemas
+			</a>
+		</div>
+	</div>
+</Layout>
